@@ -19,11 +19,9 @@ layout: categories
 
 | Authors           | Paper                                                                       | Journal                                                      |
 | --------         | ------  | ------------------------------------------------------------ |
-|   |  []  |              |
-|   |  [] |              |
-|   |  []  |              |
-|   |  []  |              |
-
+| Wookyong Kwon, Yongsik Jin, Dongyeop Kang, Sangmoon Lee*  |  [Affine Memory Control for Synchronization of Delayed Fuzzy Neural Networks]  |     IEEE Access         |
+| Seungyong Han, Suneel Kumar Kommuri, Sangmoon Lee* |  [Affine transformed IT2 fuzzy event-triggered control under deception attacks] |   IEEE Transactions on Fuzzy Systems     |
+| Hyein Jung, Seungyong Han, Sangmoon Lee*  |  [Event-Triggered H2 Attitude Controller Design for 3 DOF Hover Systems]  |   IEMEK Journal of Embedded Systems and Applications   |
 
 ## Notices
 
