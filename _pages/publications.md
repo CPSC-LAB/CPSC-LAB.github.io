@@ -6,7 +6,7 @@ layout: categories
 
 
 
-<details><summary><font size="7em" color="green">2021</font></summary><br>## Tables
+<details><summary><font size="5em" color="green">2021</font></summary><br>## Tables
   
 | Employee         | Salary |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
@@ -22,15 +22,15 @@ layout: categories
 | [Jane Doe](#)    | $100K  | For all the blogging she does.                               |
 | [Fred Bloggs](#) | $100M  | Pictures are worth a thousand words, right? So Jane × 1,000. |
 | [Jane Bloggs](#) | $100B  | With hair like that?! Enough said.                           |</details>
-<details><summary><font size="7em" color="green">2019</font></summary><br>This is how you dropdown.</details>
-<details><summary><font size="7em" color="green">2018</font></summary><br>This is how you dropdown.</details>
-<details><summary><font size="7em" color="green">2017</font></summary><br>This is how you dropdown.</details>
-<details><summary><font size="7em" color="green">2016</font></summary><br>This is how you dropdown.</details>
-<details><summary><font size="7em" color="green">2015</font></summary><br>This is how you dropdown.</details>
-<details><summary><font size="7em" color="green">2014</font></summary><br>This is how you dropdown.</details>
-<details><summary><font size="7em" color="green">2013</font></summary><br>This is how you dropdown.</details>
-<details><summary><font size="7em" color="green">2012</font></summary><br>This is how you dropdown.</details>
-<details><summary><font size="7em" color="green">2011</font></summary><br>This is how you dropdown.</details>
+<details><summary><font size="5em" color="green">2019</font></summary><br>This is how you dropdown.</details>
+<details><summary><font size="5em" color="green">2018</font></summary><br>This is how you dropdown.</details>
+<details><summary><font size="5em" color="green">2017</font></summary><br>This is how you dropdown.</details>
+<details><summary><font size="5em" color="green">2016</font></summary><br>This is how you dropdown.</details>
+<details><summary><font size="5em" color="green">2015</font></summary><br>This is how you dropdown.</details>
+<details><summary><font size="5em" color="green">2014</font></summary><br>This is how you dropdown.</details>
+<details><summary><font size="5em" color="green">2013</font></summary><br>This is how you dropdown.</details>
+<details><summary><font size="5em" color="green">2012</font></summary><br>This is how you dropdown.</details>
+<details><summary><font size="5em" color="green">2011</font></summary><br>This is how you dropdown.</details>
 
 
 
