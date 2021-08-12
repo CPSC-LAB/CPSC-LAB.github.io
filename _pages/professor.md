@@ -6,15 +6,12 @@ author_profile: true
 classes: wide
 excerpt: "A page with `classes: wide` set to expand the main content's width."
 
-feature_row:
-  - image_path: /assets/images/professor.jpg
-
-
 ```yaml
 classes: wide
 ```
 ---
-{% include feature_row %}
+
+<img src="/assets/images/professor.jpg">
 ## Biography
 
 * 2016 ~ currently: Associate Professor, Department of Electronic Engineering, Kyungpook National University (KNU)
