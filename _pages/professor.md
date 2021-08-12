@@ -4,7 +4,7 @@ permalink: /professor_intro/
 layout: categories
 ---
 
-<p align="center"><img src="/assets/images/professor.jpg" width="900"></p>
+<p align="center"><img src="/assets/images/professor.jpg" width="500"></p>
 
 ## <span style="color:blue">Biography</span>
 
