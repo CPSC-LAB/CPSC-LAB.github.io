@@ -6,7 +6,7 @@ classes: wide
 
 <p align="center"><img src="/assets/images/professor.jpg"></p>
 
-# 　　<span style="color:blue">Biography</span>
+# 　　<span style="color:yellow">Biography</span>
 
                     * 2016 ~ currently: Associate Professor, Department of Electronic Engineering, Kyungpook National University (KNU)
                     * 2009 ~ 2015: Assistant Professor, Department of Electronic Engineering, Daegu University
