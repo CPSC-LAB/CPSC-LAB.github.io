@@ -13,7 +13,7 @@ feature_row:
     2001 ~ 2006: Ph.D. Department of Electronic Engineering, Pohang University of Science and Technology (POSTECH)<br>
     1999 ~ 2001: M.S. POSTECH<br>1992 ~ 1999: B.S. EE. KNU"
 ---
-{% for post in site.posts limit: 5 %}
+{% for post in site.posts limit: 1 %}
   {% include archive-single.html %}
 {% endfor %}
 
