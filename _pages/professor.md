@@ -6,7 +6,7 @@ layout: categories
 
 <p align="center"><img src="/assets/images/professor.jpg" width="650"></p>
 
-## <span style="color:blue">Biography</span>
+## <span style="color:green">Biography</span>
 
 * 2016 ~ currently: Associate Professor, Department of Electronic Engineering, Kyungpook National University (KNU)
 * 2009 ~ 2015: Assistant Professor, Department of Electronic Engineering, Daegu University
@@ -16,7 +16,7 @@ layout: categories
 * 1992 ~ 1999: B.S. EE. KNU
           
           
-## <span style="color:blue">Research interests</span>
+## <span style="color:green">Research interests</span>
 
 ##### Reinforcement Learning and Imitation Learning
 * Reinforcement Learning algorithm
