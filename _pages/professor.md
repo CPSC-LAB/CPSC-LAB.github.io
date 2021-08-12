@@ -4,8 +4,6 @@ permalink: /professor_intro/
 classes: wide
 ---
 
-
-    title : Prof. Sang moon Lee
 <img src="/assets/images/professor.jpg">
 
 ## Biography
