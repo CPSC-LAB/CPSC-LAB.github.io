@@ -1,6 +1,8 @@
 ---
 title: "Prof. Sang moon Lee"
 permalink: /publications_cpsc/
+layout: categories
+permalink: /categories/
 classes: wide
 ---
 
