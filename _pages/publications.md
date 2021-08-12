@@ -4,6 +4,15 @@ permalink: /publications_cpsc/
 layout: categories
 ---
 
+[Success Button](#){: .btn .btn--success}
+[Warning Button](#){: .btn .btn--warning}
+[Danger Button](#){: .btn .btn--danger}
+[Info Button](#){: .btn .btn--info}
+[Inverse Button](#){: .btn .btn--inverse
+
+
+
+
 <details><summary><font size="2em" color="green">International Journal</font></summary><br>This is how you dropdown.</details>
 
 <details><summary><font size="2em" color="green">Domestic Journal</font></summary><br>This is how you dropdown.</details>
@@ -12,6 +21,14 @@ layout: categories
 <details><summary><font size="2em" color="green">International Conference</font></summary><br>This is how you dropdown.</details>
 
 <details><summary><font size="2em" color="green">Domestic Conference</font></summary><br>This is how you dropdown.</details>
+
+```markdown
+[Success Button Text](#link){: .btn .btn--success}
+[Warning Button Text](#link){: .btn .btn--warning}
+[Danger Button Text](#link){: .btn .btn--danger}
+[Info Button Text](#link){: .btn .btn--info}
+[Inverse Button](#link){: .btn .btn--inverse}
+```
 
 
 A variety of common markup showing how the theme styles them.
