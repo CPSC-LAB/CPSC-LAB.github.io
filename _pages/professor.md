@@ -17,7 +17,7 @@ classes: wide
 * 1992 ~ 1999: B.S. EE. KNU
 </div>
 
-<p align="center"><img src="/assets/images/professor.jpg"></p>
+#<p align="center"><img src="/assets/images/professor.jpg"></p>
 
 # 　　Biography
 
