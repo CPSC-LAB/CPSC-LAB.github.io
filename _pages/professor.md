@@ -1,12 +1,12 @@
 ---
 title: "Prof. Sang moon Lee"
 permalink: /professor_intro/
-classes: wide
+layout: categories
 ---
 
 <p align="center"><img src="/assets/images/professor.jpg"></p>
 
-# 　　<span style="color:blue">Biography</span>
+#<span style="color:blue">Biography</span>
 
                     * 2016 ~ currently: Associate Professor, Department of Electronic Engineering, Kyungpook National University (KNU)
                     * 2009 ~ 2015: Assistant Professor, Department of Electronic Engineering, Daegu University
@@ -16,7 +16,7 @@ classes: wide
                     * 1992 ~ 1999: B.S. EE. KNU
           
           
-# 　　<span style="color:blue">Research interests</span>
+#<span style="color:blue">Research interests</span>
 ##### 　　　　Reinforcement Learning and Imitation Learning
                     * Reinforcement Learning algorithm
                     * Generative adversarial Imitation Learning
