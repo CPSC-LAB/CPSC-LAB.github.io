@@ -4,7 +4,11 @@ permalink: /publications_cpsc/
 classes: wide
 ---
 
-<p align="center"><img src="/assets/images/professor.jpg"></p>
+<details>
+<summary>International Journal</summary>
+<br>
+This is how you dropdown.
+</details>
 
 # 　　Biography
 
