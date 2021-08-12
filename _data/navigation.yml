@@ -9,9 +9,9 @@ main:
   - title: "Publication"
     url: /publications_cpsc/
   - title: "Project"
-    url: /Projects/
+    url: /projects/
   - title: "Contact"
-    url: /
+    url: /publications_cpsc/
 
 # sidebar navigation list sample
 sidebar-sample:
