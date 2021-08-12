@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Post Archive with Feature Rows"
+title: "Prof. Sang moon Lee"
 permalink: /professor_intro/
 classes: wide
 excerpt: "A page with `classes: wide` set to expand the main content's width."
