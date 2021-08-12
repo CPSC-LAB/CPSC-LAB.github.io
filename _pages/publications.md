@@ -8,7 +8,7 @@ classes: wide
 
 ## 　　　　2021 ~ present
   
- 　　　　| Journal          | Authors | Paper                                                        |
+| Journal          | Authors | Paper                                                        |
  　　　　| --------         | ------  | ------------------------------------------------------------ |
  　　　　| Applied Mathematics and Computation   | H.I. Jung, S.Y. Han, Satnesh Singh, S.M. Lee      | Polynomially Parameter Dependent Exponential Stabilization of Sampled-Data LPV Systems           |
  　　　　| [Jane Doe](#)    | $100K   | For all the blogging she does.                               |
