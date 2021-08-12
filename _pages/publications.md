@@ -1,7 +1,7 @@
 ---
 title: "CPSC Lab's publications"
 permalink: /publications_cpsc/
-layout: categories
+classes: wide
 ---
 
 
