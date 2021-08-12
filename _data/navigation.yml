@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Professor"
-    url: professor_intro
+    url: /professor_intro/
   - title: "Member"
     url: /year-archive/
   - title: "Research"
