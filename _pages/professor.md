@@ -1,5 +1,4 @@
 ---
-layout: home
 title: "Prof. Sang moon Lee"
 permalink: /professor_intro/
 classes: wide
