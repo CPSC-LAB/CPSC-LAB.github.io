@@ -4,7 +4,7 @@ permalink: /publications_cpsc/
 classes: wide
 ---
 
-<details>
+# <details>
 <summary>International Journal</summary>
 <br>
 This is how you dropdown.
