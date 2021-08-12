@@ -1,5 +1,6 @@
 ---
-title: "Post: Gallery"
+title: "Our Projects"
+permalink: /Projects/
 categories:
   - Post Formats
 tags:
