@@ -17,5 +17,6 @@ classes: wide
           
           
 #      Research interests
+<hr><br><hr>
 ##          Automatic Control Theory and Applications
           * Model predictive control, Intelligent Control, Nonlinear Dynamical Systems, Robust Control Theory
