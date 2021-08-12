@@ -6,7 +6,7 @@ layout: categories
 
 
 
-## 　　　　2021 ~ present
+## 2021 ~ present
   
 | Journal          | Authors | Paper                                                        |
 | --------         | ------  | ------------------------------------------------------------ |
@@ -15,7 +15,7 @@ layout: categories
 | [Fred Bloggs](#) | $100M   | Pictures are worth a thousand words, right? So Jane × 1,000. |
 | [Jane Bloggs](#) | $100B   | With hair like that?! Enough said.                           |
 
-## 　　　　2020
+## 2020
 | Journal          | Authors | Paper                                                        |
 | --------         | ------  | ------------------------------------------------------------ |
 | Applied Mathematics and Computation   | H.I. Jung, S.Y. Han, Satnesh Singh, S.M. Lee      | Polynomially Parameter Dependent Exponential Stabilization of Sampled-Data LPV Systems           |
