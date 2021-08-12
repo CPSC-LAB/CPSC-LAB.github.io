@@ -6,9 +6,6 @@ excerpt: "A page with `classes: wide` set to expand the main content's width."
 
 ---
 
-```yaml
-classes: wide
-```
 
 <img src="/assets/images/professor.jpg">
 
