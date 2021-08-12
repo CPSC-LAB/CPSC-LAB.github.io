@@ -1,5 +1,5 @@
 ---
-title: "Prof. Sang moon Lee"
+title: "CPSC Lab's publications"
 permalink: /publications_cpsc/
 layout: categories
 ---
