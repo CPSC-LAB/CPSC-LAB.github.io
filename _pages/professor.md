@@ -6,12 +6,14 @@ author_profile: true
 classes: wide
 excerpt: "A page with `classes: wide` set to expand the main content's width."
 ---
+
 ```yaml
 classes: wide
 ```
+feature_row:
+  - image_path: /assets/images/professor.jpg
 
-
-## Cupidatat 90's lo-fi authentic try-hard
+## Biography
 
 * 2016 ~ currently: Associate Professor, Department of Electronic Engineering, Kyungpook National University (KNU)
 * 2009 ~ 2015: Assistant Professor, Department of Electronic Engineering, Daegu University
