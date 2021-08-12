@@ -23,6 +23,13 @@ layout: categories
 | Seungyong Han, Suneel Kumar Kommuri, Sangmoon Lee* |  [Affine transformed IT2 fuzzy event-triggered control under deception attacks](#) |   IEEE Transactions on Fuzzy Systems     |
 | Hyein Jung, Seungyong Han, Sangmoon Lee*  |  [Event-Triggered H2 Attitude Controller Design for 3 DOF Hover Systems](https://www.koreascience.or.kr/article/JAKO202019163739834.pdf)  |   IEMEK Journal of Embedded Systems and Applications   |
 
+## 2019
+
+| Authors| Paper| Journal|
+| --------| ------  | ------------------------------------------------------------ |
+|  Sang-Moon Lee, OM Kwon, SH Lee | [Improved stability criteria for sampled-data systems using modified free weighting matrix](#)  | Journal of the Franklin Institute  |
+|  Yongsik Jin, Seungyong Han, Eungchang Mason Lee, SM Lee, Crino Shin, Jongpil Yun | [Development of autonomous driving systems using state estimator with multi-rate sampled-data](#)  | 2019 IEEE International Conference on Consumer Electronics (ICCE)  |
+|  Jongcheon Park, Seungyong Han, Yongsik Jin, Sangmoon Lee | [Variable Impedance Control for Industrial Manipulators Based on Sensor-Less External Force Estimator for CPPS](#)  | IEMEK Journal of Embedded Systems and Applications  |
 ## Notices
 
 **Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
