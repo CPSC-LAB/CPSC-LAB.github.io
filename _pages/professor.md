@@ -15,6 +15,7 @@ classes: wide
           * 1999 ~ 2001: M.S. POSTECH
           * 1992 ~ 1999: B.S. EE. KNU
           
+<br>
           
 #      Research interests
 #### Automatic Control Theory and Applications
