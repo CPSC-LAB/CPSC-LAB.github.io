@@ -4,10 +4,10 @@ permalink: /professor_intro/
 classes: wide
 ---
 
-<div style="width: 30%; height:150px; border:1px solid red; float: left;">
+<div style="width: 30%; height:150px; float: left;">
 <p align="center"><img src="/assets/images/professor.jpg"></p>
 </div>
-<div style="width: 65%; height:150px; border:1px solid green; float: right;">
+<div style="width: 65%; height:150px; float: right;">
 # 　　Biography
 
                     * 2016 ~ currently: Associate Professor, Department of Electronic Engineering, Kyungpook National University (KNU)
