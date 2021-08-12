@@ -6,7 +6,7 @@ excerpt: "A page with `classes: wide` set to expand the main content's width."
 
 ---
 
-
+    title : Prof. Sang moon Lee
      <img src="/assets/images/professor.jpg">
 
 ## Biography
