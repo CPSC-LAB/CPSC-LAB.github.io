@@ -20,7 +20,6 @@ classes: wide
 
 ***
 <br>
-***
 
 ## Automatic Control Theory and Applications
            
