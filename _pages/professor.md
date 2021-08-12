@@ -4,9 +4,15 @@ permalink: /professor_intro/
 classes: wide
 ---
 
+<div style="border: 1px dotted red;">
+<img src="/assets/images/professor.jpg" style="vertical-align:middle;" >
+  <span style="margin-top:20px;font-size:18px;" >아이디망고 - IDMANGO</span>
+</div>
+
+
 <p align="center"><img src="/assets/images/professor.jpg"></p>
 
-# 　　<div style="color: #008000;">Biography</div>
+# 　　Biography</div
 
                     * 2016 ~ currently: Associate Professor, Department of Electronic Engineering, Kyungpook National University (KNU)
                     * 2009 ~ 2015: Assistant Professor, Department of Electronic Engineering, Daegu University
