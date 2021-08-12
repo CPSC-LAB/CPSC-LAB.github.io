@@ -18,7 +18,9 @@ classes: wide
           
 #      Research interests
 
-<hr><br><hr>
+***
+<br>
+***
 
 ## Automatic Control Theory and Applications
            
