@@ -5,10 +5,9 @@ layout: categories
 ---
 
 [Success Button](#){: .btn .btn--success}
-[Warning Button](#){: .btn .btn--warning}
+[Warning Button2](#){: .btn .btn--warning}
 [Danger Button](#){: .btn .btn--danger}
 [Info Button](#){: .btn .btn--info}
-[Inverse Button](#){: .btn .btn--inverse
 
 
 
@@ -23,11 +22,10 @@ layout: categories
 <details><summary><font size="7em" color="green">Domestic Conference</font></summary><br>This is how you dropdown.</details>
 
 ```markdown
-[Success Button Text](#link){: .btn .btn--success}
+[Success B2utton Text](#link){: .btn .btn--success}
 [Warning Button Text](#link){: .btn .btn--warning}
 [Danger Button Text](#link){: .btn .btn--danger}
 [Info Button Text](#link){: .btn .btn--info}
-[Inverse Button](#link){: .btn .btn--inverse}
 ```
 
 
