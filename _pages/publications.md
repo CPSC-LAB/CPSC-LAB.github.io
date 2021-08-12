@@ -35,8 +35,7 @@ layout: categories
 
 | Authors| Paper| Journal|
 | --------| ------  | ------------------------------------------------------------ |
-|Wookyong Kwon, Baeyoung Koo, SM Lee | [
-Integral-based event-triggered synchronization criteria for chaotic Lur’e systems with networked PD control](#)  | Nonlinear Dynamics |
+|Wookyong Kwon, Baeyoung Koo, SM Lee | [Integral-based event-triggered synchronization criteria for chaotic Lur’e systems with networked PD control](#)  | Nonlinear Dynamics |
 |Sangmoon Lee | [Novel stabilization criteria for T–S fuzzy systems with affine matched membership functions](#)  | IEEE Transactions on Fuzzy Systems |
 |Wookyong Kwon, Baeyoung Koo, Sang-Moon Lee | [Novel Lyapunov–Krasovskii functional with delay-dependent matrix for stability of time-varying delay systems](#)  | Applied Mathematics and Computation |
 |Seungyong Han, Sangmoon Lee | [Sampled-Data MPC for Leader-Following of Multi-Mobile Robot System](#)  | The Transactions of the Korean Institute of Electrical Engineers |
