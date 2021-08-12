@@ -27,18 +27,18 @@ layout: categories
 
 | Authors| Paper| Journal|
 | --------| ------  | ------------------------------------------------------------ |
-|  Sang-Moon Lee, OM Kwon, SH Lee | [Improved stability criteria for sampled-data systems using modified free weighting matrix](#)  | Journal of the Franklin Institute  |
+|  Sang-Moon Lee, OM Kwon, SH Lee* | [Improved stability criteria for sampled-data systems using modified free weighting matrix](#)  | Journal of the Franklin Institute  |
 |  Yongsik Jin, Seungyong Han, Eungchang Mason Lee, SM Lee, Crino Shin, Jongpil Yun | [Development of autonomous driving systems using state estimator with multi-rate sampled-data](#)  | 2019 IEEE International Conference on Consumer Electronics (ICCE)  |
-|  Jongcheon Park, Seungyong Han, Yongsik Jin, Sangmoon Lee | [Variable Impedance Control for Industrial Manipulators Based on Sensor-Less External Force Estimator for CPPS](#)  | IEMEK Journal of Embedded Systems and Applications  |
+|  Jongcheon Park, Seungyong Han, Yongsik Jin, Sangmoon Lee* | [Variable Impedance Control for Industrial Manipulators Based on Sensor-Less External Force Estimator for CPPS](#)  | IEMEK Journal of Embedded Systems and Applications  |
 
 ## 2018
 
 | Authors| Paper| Journal|
 | --------| ------  | ------------------------------------------------------------ |
-|Wookyong Kwon, Baeyoung Koo, SM Lee | [Integral-based event-triggered synchronization criteria for chaotic Lur’e systems with networked PD control](#)  | Nonlinear Dynamics |
-|Sangmoon Lee | [Novel stabilization criteria for T–S fuzzy systems with affine matched membership functions](#)  | IEEE Transactions on Fuzzy Systems |
-|Wookyong Kwon, Baeyoung Koo, Sang-Moon Lee | [Novel Lyapunov–Krasovskii functional with delay-dependent matrix for stability of time-varying delay systems](#)  | Applied Mathematics and Computation |
-|Seungyong Han, Sangmoon Lee | [Sampled-Data MPC for Leader-Following of Multi-Mobile Robot System](#)  | The Transactions of the Korean Institute of Electrical Engineers |
+|Wookyong Kwon, Baeyoung Koo, SM Lee* | [Integral-based event-triggered synchronization criteria for chaotic Lur’e systems with networked PD control](#)  | Nonlinear Dynamics |
+|Sangmoon Lee* | [Novel stabilization criteria for T–S fuzzy systems with affine matched membership functions](#)  | IEEE Transactions on Fuzzy Systems |
+|Wookyong Kwon, Baeyoung Koo, Sang-Moon Lee* | [Novel Lyapunov–Krasovskii functional with delay-dependent matrix for stability of time-varying delay systems](#)  | Applied Mathematics and Computation |
+|Seungyong Han, Sangmoon Lee* | [Sampled-Data MPC for Leader-Following of Multi-Mobile Robot System](#)  | The Transactions of the Korean Institute of Electrical Engineers |
 
 ## Notices
 
