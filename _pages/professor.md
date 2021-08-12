@@ -14,3 +14,6 @@ classes: wide
           * 2001 ~ 2006: Ph.D. Department of Electronic Engineering, Pohang University of Science and Technology (POSTECH)
           * 1999 ~ 2001: M.S. POSTECH
           * 1992 ~ 1999: B.S. EE. KNU
+##      Research interests
+#          Automatic Control Theory and Applications
+          * Model predictive control, Intelligent Control, Nonlinear Dynamical Systems, Robust Control Theory
