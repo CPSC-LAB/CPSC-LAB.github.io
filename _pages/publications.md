@@ -10,16 +10,18 @@ layout: categories
 [Info Button](#){: .btn .btn--info}
 
 
+<details><summary><font size="7em" color="green">2021</font></summary><br>This is how you dropdown.</details>
+<details><summary><font size="7em" color="green">2020</font></summary><br>This is how you dropdown.</details>
+<details><summary><font size="7em" color="green">2019</font></summary><br>This is how you dropdown.</details>
+<details><summary><font size="7em" color="green">2018</font></summary><br>This is how you dropdown.</details>
+<details><summary><font size="7em" color="green">2017</font></summary><br>This is how you dropdown.</details>
+<details><summary><font size="7em" color="green">2016</font></summary><br>This is how you dropdown.</details>
+<details><summary><font size="7em" color="green">2015</font></summary><br>This is how you dropdown.</details>
+<details><summary><font size="7em" color="green">2014</font></summary><br>This is how you dropdown.</details>
+<details><summary><font size="7em" color="green">2013</font></summary><br>This is how you dropdown.</details>
+<details><summary><font size="7em" color="green">2012</font></summary><br>This is how you dropdown.</details>
+<details><summary><font size="7em" color="green">2011</font></summary><br>This is how you dropdown.</details>
 
-
-<details><summary><font size="7em" color="green">International Journal</font></summary><br>This is how you dropdown.</details>
-
-<details><summary><font size="7em" color="green">Domestic Journal</font></summary><br>This is how you dropdown.</details>
-
-
-<details><summary><font size="7em" color="green">International Conference</font></summary><br>This is how you dropdown.</details>
-
-<details><summary><font size="7em" color="green">Domestic Conference</font></summary><br>This is how you dropdown.</details>
 
 ```markdown
 [Success B2utton Text](#link){: .btn .btn--success}
