@@ -8,30 +8,23 @@ layout: categories
 
 ## 2021 ~ present
   
-| Employee         | Salary |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | $1     | Because that's all Steve Jobs needed for a salary.           |
-| [Jane Doe](#)    | $100K  | For all the blogging she does.                               |
-| [Fred Bloggs](#) | $100M  | Pictures are worth a thousand words, right? So Jane × 1,000. |
-| [Jane Bloggs](#) | $100B  | With hair like that?! Enough said.                           |
+| Journal          | Authors | Paper                                                        |
+| --------         | ------  | ------------------------------------------------------------ |
+| [John Doe](#)    | $1      | Because that's all Steve Jobs needed for a salary.           |
+| [Jane Doe](#)    | $100K   | For all the blogging she does.                               |
+| [Fred Bloggs](#) | $100M   | Pictures are worth a thousand words, right? So Jane × 1,000. |
+| [Jane Bloggs](#) | $100B   | With hair like that?! Enough said.                           |
 
-<details><summary><font size="5em" color="green">2020</font></summary><br>
-| Employee         | Salary |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | $1     | Because that's all Steve Jobs needed for a salary.           |
-| [Jane Doe](#)    | $100K  | For all the blogging she does.                               |
-| [Fred Bloggs](#) | $100M  | Pictures are worth a thousand words, right? So Jane × 1,000. |
-| [Jane Bloggs](#) | $100B  | With hair like that?! Enough said.                           |</details>
-<details><summary><font size="5em" color="green">2019</font></summary><br>This is how you dropdown.</details>
-<details><summary><font size="5em" color="green">2018</font></summary><br>This is how you dropdown.</details>
-<details><summary><font size="5em" color="green">2017</font></summary><br>This is how you dropdown.</details>
-<details><summary><font size="5em" color="green">2016</font></summary><br>This is how you dropdown.</details>
-<details><summary><font size="5em" color="green">2015</font></summary><br>This is how you dropdown.</details>
-<details><summary><font size="5em" color="green">2014</font></summary><br>This is how you dropdown.</details>
-<details><summary><font size="5em" color="green">2013</font></summary><br>This is how you dropdown.</details>
-<details><summary><font size="5em" color="green">2012</font></summary><br>This is how you dropdown.</details>
-<details><summary><font size="5em" color="green">2011</font></summary><br>This is how you dropdown.</details>
-
+## 2020
+## 2019
+## 2018
+## 2017
+## 2016
+## 2015
+## 2014
+## 2013
+## 2012
+## 2011
 
 
 
