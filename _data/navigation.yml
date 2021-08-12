@@ -12,8 +12,6 @@ main:
     url: /
   - title: "Contact"
     url: /
-  - title: "Extra Menu Item Long Title"
-    url: /
 
 # sidebar navigation list sample
 sidebar-sample:
