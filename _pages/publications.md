@@ -11,7 +11,7 @@ layout: categories
 | Authors           | Paper  | Journal                                                      |
 | --------         | ------  | ------------------------------------------------------------ |
 | H.I. Jung, S.Y. Han, Satnesh Singh, S.M. Lee   |   [Polynomially Parameter Dependent Exponential Stabilization of Sampled-Data LPV Systems](https://reader.elsevier.com/reader/sd/pii/S0096300321005622?token=A24328E3EC709C43A286293CEA698826F231E75780E29C3DD4DACF72F8D40ED11ABF93AA716F63348264A789EF527963&originRegion=us-east-1&originCreation=20210812133817)    | Applied Mathematics and Computation           |
-| [Jane Doe](#)    | $100K   | For all the blogging she does.                               |
+| Seungyong Han, Sangmoon Lee    | [Sampled‐parameter dependent stabilization for linear parameter varying systems with asynchronous parameter sampling   | International Journal of Robust and Nonlinear Control](https://onlinelibrary.wiley.com/doi/epdf/10.1002/rnc.5454)                               |
 | [Fred Bloggs](#) | $100M   | Pictures are worth a thousand words, right? So Jane × 1,000. |
 | [Jane Bloggs](#) | $100B   | With hair like that?! Enough said.                           |
 
