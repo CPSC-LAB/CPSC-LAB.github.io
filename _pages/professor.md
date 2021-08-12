@@ -1,6 +1,6 @@
 ---
 title: "소개"
-layout: archive
+layout: posts
 permalink: /professor_intro/
 ---
 
