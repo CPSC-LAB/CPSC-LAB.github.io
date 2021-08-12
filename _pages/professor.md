@@ -6,20 +6,13 @@ classes: wide
 
 <div style="border: 1px dotted red;">
 <img src="/assets/images/professor.jpg" style="vertical-align:top;" >
-  <span style="margin-top:20px;font-size:18px;" ># 　　Biography</div
-
-                    * 2016 ~ currently: Associate Professor, Department of Electronic Engineering, Kyungpook National University (KNU)
-                    * 2009 ~ 2015: Assistant Professor, Department of Electronic Engineering, Daegu University
-                    * 2006 ~ 2008: Senior Researcher, Korea Telecom(KT)
-                    * 2001 ~ 2006: Ph.D. Department of Electronic Engineering, Pohang University of Science and Technology (POSTECH)
-                    * 1999 ~ 2001: M.S. POSTECH
-                    * 1992 ~ 1999: B.S. EE. KNU</span>
+  <span style="margin-top:20px;font-size:18px;" >* 2016 ~ currently: Associate Professor, Department of Electronic Engineering, Kyungpook National University (KNU)* 2009 ~ 2015: Assistant Professor, Department of Electronic Engineering, Daegu University * 2006 ~ 2008: Senior Researcher, Korea Telecom(KT) * 2001 ~ 2006: Ph.D. Department of Electronic Engineering, Pohang University of Science and Technology (POSTECH) * 1999 ~ 2001: M.S. POSTECH * 1992 ~ 1999: B.S. EE. KNU</span>
 </div>
 
 
 <p align="center"><img src="/assets/images/professor.jpg"></p>
 
-# 　　Biography</div
+# 　　Biography
 
                     * 2016 ~ currently: Associate Professor, Department of Electronic Engineering, Kyungpook National University (KNU)
                     * 2009 ~ 2015: Assistant Professor, Department of Electronic Engineering, Daegu University
