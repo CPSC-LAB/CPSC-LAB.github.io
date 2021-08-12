@@ -6,7 +6,7 @@ classes: wide
 
 <p align="center"><img src="/assets/images/professor.jpg"></p>
 
-##      Biography
+##　　　　　Biography
 
           * 2016 ~ currently: Associate Professor, Department of Electronic Engineering, Kyungpook National University (KNU)
           * 2009 ~ 2015: Assistant Professor, Department of Electronic Engineering, Daegu University
@@ -17,7 +17,7 @@ classes: wide
           
 <br>
           
-##      Research interests
+##　　　　　Research interests
 ##### Reinforcement Learning and Imitation Learning
           * Reinforcement Learning algorithm
           * Generative adversarial Imitation Learning
