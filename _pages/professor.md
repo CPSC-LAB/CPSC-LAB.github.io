@@ -4,7 +4,7 @@ permalink: /professor_intro/
 classes: wide
 ---
 
-<img src="/assets/images/professor.jpg">
+<p align="center"><img src="/assets/images/professor.jpg"></p>
 
 ## Biography
 
