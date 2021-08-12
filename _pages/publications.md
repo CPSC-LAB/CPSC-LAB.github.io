@@ -6,7 +6,8 @@ layout: categories
 
 
 
-<details><summary><font size="5em" color="green">2021</font></summary><br>## Tables
+2021
+## Tables
   
 | Employee         | Salary |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
@@ -14,7 +15,7 @@ layout: categories
 | [Jane Doe](#)    | $100K  | For all the blogging she does.                               |
 | [Fred Bloggs](#) | $100M  | Pictures are worth a thousand words, right? So Jane × 1,000. |
 | [Jane Bloggs](#) | $100B  | With hair like that?! Enough said.                           |
-</details>
+
 <details><summary><font size="5em" color="green">2020</font></summary><br>
 | Employee         | Salary |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
