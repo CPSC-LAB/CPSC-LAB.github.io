@@ -20,9 +20,12 @@ classes: wide
 #      Research interests
 #### Automatic Control Theory and Applications
           * Model predictive control, Intelligent Control, Nonlinear Dynamical Systems, Robust Control Theory
+          
 #### Networked Control Systems
           * Sampled-data control, Quantization, time-delay, Synchronization, Genetic Regulatory Networks
+          
 #### Cyber Physical Systems
           * Embedded Control Systems, Complex Dynamical Networks, Multi-Agent Systems 
+          
 #### Industrial Applications
           * Fuel cell systems, Power Systems, Automotive systems
