@@ -4,8 +4,6 @@ permalink: /publications_cpsc/
 layout: categories
 ---
 
-
-
 ## 2021 ~ present
   
 | Authors           | Paper  | Journal                                                      |
