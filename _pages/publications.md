@@ -15,7 +15,13 @@ classes: wide
  　　　　| [Fred Bloggs](#) | $100M   | Pictures are worth a thousand words, right? So Jane × 1,000. |
  　　　　| [Jane Bloggs](#) | $100B   | With hair like that?! Enough said.                           |
 
-## 2020
+## 　　　　2020
+| Journal          | Authors | Paper                                                        |
+| --------         | ------  | ------------------------------------------------------------ |
+| Applied Mathematics and Computation   | H.I. Jung, S.Y. Han, Satnesh Singh, S.M. Lee      | Polynomially Parameter Dependent Exponential Stabilization of Sampled-Data LPV Systems           |
+| [Jane Doe](#)    | $100K   | For all the blogging she does.                               |
+| [Fred Bloggs](#) | $100M   | Pictures are worth a thousand words, right? So Jane × 1,000. |
+| [Jane Bloggs](#) | $100B   | With hair like that?! Enough said.                           |
 ## 2019
 ## 2018
 ## 2017
