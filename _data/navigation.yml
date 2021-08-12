@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Posts"
+  - title: "Professor"
+    url: professor_intro
+  - title: "Member"
     url: /year-archive/
-  - title: "Collections"
+  - title: "Research"
     url: /collection-archive/
-  - title: "Sitemap"
+  - title: "Publication"
     url: /sitemap/
-  - title: "Extra Menu Item 1"
+  - title: "Project"
     url: /
-  - title: "Extra Menu Item 2"
+  - title: "Contact"
     url: /
   - title: "Extra Menu Item Long Title"
     url: /
