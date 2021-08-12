@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Post Archive with Feature Rows"
 permalink: /professor_intro/
 author_profile: true
