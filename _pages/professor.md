@@ -4,18 +4,6 @@ permalink: /professor_intro/
 classes: wide
 ---
 
-<div style="width: 30%; height:150px; float: left;">
-<p align="center"><img src="/assets/images/professor.jpg"></p>
-</div>
-<div style="width: 65%; height:150px; float: right;">
-* 2016 ~ currently: Associate Professor, Department of Electronic Engineering, Kyungpook National University (KNU)<br>
-* 2009 ~ 2015: Assistant Professor, Department of Electronic Engineering, Daegu University<br>
-* 2006 ~ 2008: Senior Researcher, Korea Telecom(KT)<br>
-* 2001 ~ 2006: Ph.D. Department of Electronic Engineering, Pohang University of Science and Technology (POSTECH)<br>
-* 1999 ~ 2001: M.S. POSTECH<br>
-* 1992 ~ 1999: B.S. EE. KNU
-</div>
-
 #<p align="center"><img src="/assets/images/professor.jpg"></p>
 
 # 　　Biography
