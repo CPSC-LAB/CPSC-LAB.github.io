@@ -15,7 +15,7 @@ layout: categories
 | [Fred Bloggs](#) | $100M  | Pictures are worth a thousand words, right? So Jane × 1,000. |
 | [Jane Bloggs](#) | $100B  | With hair like that?! Enough said.                           |
 </details>
-<details><summary><font size="7em" color="green">2020</font></summary><br>
+<details><summary><font size="5em" color="green">2020</font></summary><br>
 | Employee         | Salary |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
 | [John Doe](#)    | $1     | Because that's all Steve Jobs needed for a salary.           |
