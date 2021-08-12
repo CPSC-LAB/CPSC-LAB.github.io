@@ -14,6 +14,7 @@ layout: categories
 | Yongsik Jin, Wookyong Kwon, Sangmoon Lee | [Further Results on Sampled-data H_infinity Filtering for TS Fuzzy Systems with Asynchronous Premise Variables](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9392358)   | IEEE Transactions on Fuzzy Systems                           |
 | Suneel Kumar Kommuri, Seungyong Han, Sangmoon Lee  |  [External Torque Estimation using Higher-order Sliding Mode Observer for Robot Manipulators](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9382115) |  IEEE/ASME Transactions on Mechatronics |
 | Yongsik Jin, Wookyong Kwon, Sangmoon Lee  |  [Parameterized Luenberger-Type H∞ State Estimator for Delayed Static Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9314928)  |   IEEE Transactions on Neural Networks and Learning Systems   |
+
 ## 2020
 
 | Authors           | Paper                                                                       | Journal                                                      |
