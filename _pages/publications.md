@@ -7,7 +7,7 @@ layout: categories
 
 
 <details><summary><font size="7em" color="green">2021</font></summary><br>
- ## Tables
+Tables
 | Employee         | Salary |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
 | [John Doe](#)    | $1     | Because that's all Steve Jobs needed for a salary.           |
