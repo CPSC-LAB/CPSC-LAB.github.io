@@ -6,7 +6,7 @@ classes: wide
 
 <p align="center"><img src="/assets/images/professor.jpg"></p>
 
-## 　　　Biography
+# 　　Biography
 
                     * 2016 ~ currently: Associate Professor, Department of Electronic Engineering, Kyungpook National University (KNU)
                     * 2009 ~ 2015: Assistant Professor, Department of Electronic Engineering, Daegu University
@@ -17,32 +17,32 @@ classes: wide
           
 <br>
           
-## 　　　Research interests
-##### 　　　Reinforcement Learning and Imitation Learning
+# 　　Research interests
+##### 　　　　Reinforcement Learning and Imitation Learning
                     * Reinforcement Learning algorithm
                     * Generative adversarial Imitation Learning
                     * Twin-delayed DDPG
                     * Imitation Learning for robot
           
-##### 　　　Automatic Control Theory and Applications
+##### 　　　　Automatic Control Theory and Applications
                     * Model predictive control
                     * Intelligent Control
                     * Nonlinear Dynamical Systems
                     * Robust Control Theory
           
-##### 　　　Networked Control Systems
+##### 　　　　Networked Control Systems
                     * Sampled-data control
                     * Quantization
                     * time-delay
                     * Synchronization
                     * Genetic Regulatory Networks
           
-##### 　　　Cyber Physical Systems
+##### 　　　　Cyber Physical Systems
                     * Embedded Control Systems
                     * Complex Dynamical Networks
                     * Multi-Agent Systems 
           
-##### 　　　Industrial Applications
+##### 　　　　Industrial Applications
                     * Fuel cell systems
                     * Power Systems
                     * Automotive systems
