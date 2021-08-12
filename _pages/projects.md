@@ -1,6 +1,6 @@
 ---
 title: "Our Projects"
-permalink: /Projects/
+permalink: /projects/
 categories:
   - Post Formats
 tags:
