@@ -3,8 +3,8 @@ title: "CPSC Lab's Members"
 permalink: /members/
 layout: categories
 
+# Ph.D students
 feature_row:
-  title: "Ph.D students"
   - image_path: /assets/images/ETRI2021.gif
     image_caption: "2021"
     title: "클리닝 태스크"
