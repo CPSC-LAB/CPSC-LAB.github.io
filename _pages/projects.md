@@ -43,7 +43,7 @@ comments: false
 <br>
 
 **Keywords**<br>
-  <span style="font-size: 13px"> Autonomous Vehicle, Visual servoing, Multi-Channel LiDAR , Sensor Fusion</span>
+  <span style="font-size: 13px"> Manipulator, Physical Intelligence, Human-robot cooperation, Imitation learning, Trajectory learning</span>
 
 <p align="center">
 <img height="250" src="/assets/images/ETRI2021.gif" alt="클리닝 태스크"> <img height="270" src="/assets/images/ETRI2021_BLOCK.jpg" alt="판다로봇과 힘 센서의 통신상태">
