@@ -93,8 +93,27 @@ feature_row4:
     title: "EungChang Mason Lee"
     excerpt : "한국과학기술원(KAIST) 진학"
 
+  - image_path: /assets/images/members/noface.jpg
+    image_caption: "2019년 박사 졸업"
+    title: "Yongsik Jin"
+    excerpt : "한국전자통신연구원(ETRI)"
+  - image_path: /assets/images/members/noface.jpg
+    image_caption: "2019년 박사후연구원"
+    title: "Sunnel Kumar Kommuri"
+    excerpt : "Xi'an Jiaotong-Liverpool University 교수"
+  - image_path: /assets/images/members/noface.jpg
+    image_caption: "2020년 학사 졸업"
+    title: "KunHo Kim"
+    excerpt : "한국전력공사"
 
-    
+  - image_path: /assets/images/members/noface.jpg
+    image_caption: "2021년 학사 졸업"
+    title: "KyungHoon Jung"
+    excerpt : "Technische Universitat Munchen 진학"
+  - image_path: /assets/images/members/noface.jpg
+    image_caption: "2021년 학사 졸업"
+    title: "Choi A Young"
+    excerpt : "삼성전자"
 ---
 
 ### Ph.D. Candidate
