@@ -21,7 +21,7 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/members/HI.jpg
     image_caption: "2019~"
-    title: "Hye in Jung~"
+    title: "Hye in Jung"
     excerpt: "Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br> E-mail : myshin0512@gmail.com"
   - image_path: /assets/images/members/JC.jpg
     image_caption: "2020~"
