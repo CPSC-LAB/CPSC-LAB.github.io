@@ -56,14 +56,14 @@ feature_row4:
 ---
 
 ### Ph.D. Candidate
-{% include feature_row id="intro" type="center" %}
+{% include feature_row %}
 
 ### M.S. Candidate
-{% include feature_row %}
+{% include feature_row id="feature_row2" type="center" %}
 
 ### Under-graduate Student
 {% include feature_row id="feature_row2" type="center" %}
 
+### Alumni
 {% include feature_row id="feature_row3" type="right" %}
 
-{% include feature_row id="feature_row4" type="center" %}
