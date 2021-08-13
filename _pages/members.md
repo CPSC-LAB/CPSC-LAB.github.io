@@ -59,6 +59,7 @@ feature_row4:
 ---
 
 ### Ph.D. Candidate
+---
 {% include feature_row id="feature_row" type="left" %}
 
 ### M.S. Candidate
