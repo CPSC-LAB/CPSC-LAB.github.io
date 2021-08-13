@@ -16,7 +16,7 @@ comments: false
 This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)
   </div>  
 <br>
-  <span style="font-size: 20px; "color:#3399ff"> 연구목표 </span><br>
+  <span style="font-size: 20px; color:#3399ff"> 연구목표 </span><br>
   <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color:rgba(211, 211, 211, 0.2);"> 
     <span style="font-size: 15px">
       　■ 로봇 매니퓰레이터의 Task 적용을 위한 힘/위치 궤적 교시학습 시스템 구축 <br>
@@ -149,7 +149,7 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 <details>
   <summary> <span style="font-size: 20px"> (2016.11~2019.10)<br>　영상검출오류에 강인한 예측 비주얼 서보잉 기법 개발 </span> </summary>
   <div markdown="1">
-This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)
+This project was conducted at <span style="color:grin">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)
   </div>  
 <br>
 <p style="font-size:1rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
