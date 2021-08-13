@@ -23,7 +23,7 @@ feature_row2:
     image_caption: "ETRI-2020"
     alt: "placeholder image 2"
     title: "2020~"
-    excerpt: "　　　　　　　　　　　　　　　　　　　　　　　<br>Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science"
+    excerpt: "　　　　　　　　　　　　　　　　　　　　　　　<br>Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br> E-mail : myshin0512@gmail.com"
   - image_path: /assets/images/members/SH.jpg
     image_caption: "2020~"
     alt: "placeholder image 2"
