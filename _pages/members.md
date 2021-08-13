@@ -18,6 +18,7 @@ feature_row:
     image_caption: "2019~"
     title: "Hye min Lee"
     excerpt : "　　　　　　　　　　　　　　　　　　　　　　　<br>"
+    
 feature_row2:
   - image_path: /assets/images/members/HI.jpg
     image_caption: "2019~"
@@ -41,14 +42,15 @@ feature_row3:
     image_caption: "2021~"
     title: "Gi hoo Kim"
     excerpt : "　　　　　　　　　　　　　　　　　　　　　　　<br>"
-    - image_path: /assets/images/members/noface.jpg
+    
+  - image_path: /assets/images/members/noface.jpg
     image_caption: "2021~"
     title: "Kyung don Lee"
     excerpt : "　　　　　　　　　　　　　　　　　　　　　　　<br>"
     
 
 feature_row4:
-    - image_path: /assets/images/members/noface.jpg
+  - image_path: /assets/images/members/noface.jpg
     image_caption: "2021~"
     title: "Yajuan Liu"
     excerpt : "North China Electric Power University 교수"
