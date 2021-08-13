@@ -17,7 +17,7 @@ comments: false
 <span style="font-size: 13px"> This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)</span>
    </div>  
   
-<div style="border: 1px solid black; padding: 10px; border-color: #CEE3F6; background-color: #E0E0F8;"> 
+<div style="border: 1px solid black; padding: 10px; border-color: #E0E0F8; background-color: #E0ECF8;"> 
   <br>
     <span style="font-size: 30px; color:green"> 연구목표 </span><br>
     <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color: rgba(211, 211, 211, 0.2);"> 
