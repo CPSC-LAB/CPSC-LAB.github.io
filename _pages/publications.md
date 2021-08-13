@@ -83,5 +83,4 @@ layout: categories
 
 ## Notices
 
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
+**2015년 이전의 실적**은 게제하지 않았습니다.
