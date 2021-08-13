@@ -38,9 +38,8 @@ comments: false
    ■  주어진 Task에 대한 모방학습 알고리즘 적용<br>
    ■  적용된 모방학습 알고리즘 성능 평가
         </span>
- 
+    </div>
 
-</span>
 </div>
 <br>
 
