@@ -22,7 +22,7 @@ comments: false
     <span style="font-size: 30px; color:green"> 연구목표 </span><br>
     <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color:rgba(211, 211, 211, 0.2);"> 
       <span style="font-size: 13px">
-         ■ 　로봇 매니퓰레이터의 Task 적용을 위한 <span style="color:salmon"> 힘/위치 궤적 교시학습</span> 시스템 구축 <br>
+         ■ 　로봇 매니퓰레이터의 Task 적용을 위한 <span style="color:salmon"> **힘/위치 궤적 교시학습**</span> 시스템 구축 <br>
          ■ 　직접 교시를 통한 <span style="color:salmon"> 사용자 의도 파악(힘/위치)</span>이 가능한 교시학습 알고리즘 개발 <br>
          ■ 　7축 다관절 로봇을 활용한 <span style="color:salmon"> 실제 작업</span>에 대한 모방학습 알고리즘 적용 및 검증
         </span>
