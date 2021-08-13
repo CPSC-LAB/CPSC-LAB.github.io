@@ -8,11 +8,11 @@ feature_row:
     image_caption: "2019~"
     alt: "placeholder image 2"
     title: "Seung yong Han"
-    excerpt: "<br>Research Area<br> - Sampled-data control<br> - Robust control<br> - Visual servoing<br> - Autonomous car control 　　　　　　　　　　　　　　　　　　　　　　　 E-mail : cpsc.seungyong@gmail.com"
+    excerpt: "　　　　　　　　　　　　　　　　　　　　　　　<br>Research Area<br> - Sampled-data control<br> - Robust control<br> - Visual servoing<br> - Autonomous car control <br> E-mail : cpsc.seungyong@gmail.com"
   - image_path: /assets/images/members/WS.jpg
     image_caption: "2020~"
     title: "Woo sang shin"
-    excerpt: "모방학습을 이용한 무게에 따른 분류작업 태스크"
+    excerpt: "　　　　　　　　　　　　　　　　　　　　　　　<br>Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br> E-mail : myshin0512@gmail.com"
   - image_path: /assets/images/members/noface.jpg
     image_caption: "2019~"
     title: "Hye min Lee"
