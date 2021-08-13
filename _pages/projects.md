@@ -11,7 +11,7 @@ comments: false
 <span style="color:Salmon"> Click the titles to see the details </span>
 
 <details>
-  <summary> <span style="font-size: 20px"> (2021.04~2021.11)<br>　　다관절 로봇의 물리적 지능을 위한 교시학습 인공지능기술개발 </span> </summary>
+  <summary> <span style="font-size: 20px"> (2021.04~2021.11)<br>　다관절 로봇의 물리적 지능을 위한 교시학습 인공지능기술개발 </span> </summary>
   
   <div markdown="1">
 <span style="font-size: 13px"> This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)</span>
@@ -58,7 +58,7 @@ comments: false
 ---
 
 <details>
-  <summary> <span style="font-size: 20px"> (2020.05~2020.11)<br>　　다관절 로봇을 위한 인공지능 모방학습 기술 개발 </span> </summary>
+  <summary> <span style="font-size: 20px"> (2020.05~2020.11)<br>　다관절 로봇을 위한 인공지능 모방학습 기술 개발 </span> </summary>
   
   <div markdown="1">
 <span style="font-size: 13px"> This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)</span>
@@ -107,7 +107,7 @@ comments: false
 ---
 
 <details>
-  <summary> <span style="font-size: 20px"> (2019.03~2019.11)<br>　　센서리스 매니퓰레이터의 외력 추정기 및 임피던스 제어기 설계에 대한 연구 </span> </summary>
+  <summary> <span style="font-size: 20px"> (2019.03~2019.11)<br>　센서리스 매니퓰레이터의 <br>　외력 추정기 및 임피던스 제어기 설계에 대한 연구 </span> </summary>
   
   <div markdown="1">
 <span style="font-size: 13px"> This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)</span>
@@ -157,7 +157,7 @@ comments: false
 ---
 
 <details>
-  <summary> <span style="font-size: 20px"> (2018.06~2018.11)<br>　　2018 R-BIZ challenge  터틀봇3 오토레이스 </span> </summary>
+  <summary> <span style="font-size: 20px"> (2018.06~2018.11)<br>　2018 R-BIZ challenge  터틀봇3 오토레이스 </span> </summary>
   <div markdown="1">
 This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)
   </div>  
@@ -177,7 +177,7 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 ---
 
 <details>
-  <summary> <span style="font-size: 20px"> (2018.03~2018.11)<br>　　다중주기 센서융합 기반 이동체 실시간 예측 제어 연구 </span> </summary>
+  <summary> <span style="font-size: 20px"> (2018.03~2018.11)<br>　다중주기 센서융합 기반 이동체 실시간 예측 제어 연구 </span> </summary>
   <div markdown="1">
 This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)
   </div>  
