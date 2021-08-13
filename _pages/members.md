@@ -6,7 +6,7 @@ layout: categories
 feature_row:
   - image_path: /assets/images/members/SY.jpg
     image_caption: "2021"
-    title: "Seung young Han"
+    title: "Seung yong Han"
     excerpt: "sadfasdf"
   - image_path: /assets/images/ETRI2021.gif
     image_caption: "2021"
@@ -57,14 +57,14 @@ feature_row4:
 ---
 
 ### Ph.D. Candidate
-{% include feature_row id="feature_row" %}
+{% include feature_row id="feature_row" type="center"  %}
 
 ### M.S. Candidate
-{% include feature_row id="feature_row2" %}
+{% include feature_row id="feature_row2" type="left"%}
 
 ### Under-graduate Student
-{% include feature_row id="feature_row3" %}
+{% include feature_row id="feature_row3" type="left"%}
 
 ### Alumni
-{% include feature_row id="feature_row4" %}
+{% include feature_row id="feature_row4" type="left"%}
 
