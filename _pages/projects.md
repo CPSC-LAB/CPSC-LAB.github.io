@@ -17,7 +17,8 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
   </div>  
 <br>
   연구목표<br>
-.txtBox00bg, .txtBox01bg, .txtBox02bg, .txtBox03bg, .txtBox04bg { border-style: solid; border-width: 2px; padding: 12px; word-break: break-all; } .txtBox00bg { border-color: LightGray; background-color:rgba(211, 211, 211, 0.2); } .txtBox01bg { border-color: DodgerBlue; background-color:rgba(30, 144, 255, 0.2); } .txtBox02bg { border-color: LightSalmon; background-color:rgba(255, 160, 122, 0.2); } .txtBox03bg { border-color: Tomato; background-color:rgba(255, 99, 71, 0.2); } .txtBox04bg { border-color: Crimson; background-color:rgba(237, 20, 61, 0.2); }
+
+  <div style="border: 1px solid black; padding: 10px;"> ㅎㅇ. </div>
 
 
 <p style="font-size:1rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
