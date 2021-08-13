@@ -6,9 +6,8 @@ layout: categories
 feature_row:
   - image_path: /assets/images/members/SY.jpg
     image_caption: "2019~"
-    alt: "placeholder image 2"
     title: "Seung yong Han"
-    excerpt: "　　　　　　　　　　　　　　　　　　　　　　　<br>Research Area<br> - Sampled-data control<br> - Robust control<br> - Visual servoing <br><br> E-mail<br> cpsc.seungyong@gmail.com"
+    excerpt: "　　　　　　　　　　　　　　　　　　　　　　　<br><span style="color:green">Research AreaBiography</span><br> - Sampled-data control<br> - Robust control<br> - Visual servoing <br><br> E-mail<br> cpsc.seungyong@gmail.com"
     
   - image_path: /assets/images/members/WS.jpg
     image_caption: "2020~"
