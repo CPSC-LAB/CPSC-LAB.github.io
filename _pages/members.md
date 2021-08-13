@@ -55,11 +55,13 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 
-# Ph.D students
+# Ph.D. Candidate
 {% include feature_row id="intro" type="center" %}
 
+# M.S. Candidate
 {% include feature_row %}
 
+# Under-graduate Student
 {% include feature_row id="feature_row2" type="center" %}
 
 {% include feature_row id="feature_row3" type="right" %}
