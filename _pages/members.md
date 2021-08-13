@@ -4,7 +4,7 @@ permalink: /members/
 layout: categories
 
 feature_row:
-  - image_path: /assets/images/ETRI2021.gif
+  - image_path: /assets/images/members/SY.jpg
     image_caption: "2021"
     title: "Seung young Han"
     excerpt: "sadfasdf"
@@ -16,8 +16,9 @@ feature_row:
     image_caption: "2020"
     title: "Pick and Place 태스크"
     excerpt: "강화학습을 이용한 Pick and Place 태스크"
+    
 feature_row2:
-  - image_path: /assets/images/ETRI2021.gif
+  - image_path: /assets/images/members/JC.jpg
     image_caption: "ETRI-2020"
     alt: "placeholder image 2"
     title: "Placeholder 2"
