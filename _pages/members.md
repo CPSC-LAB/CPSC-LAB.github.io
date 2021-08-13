@@ -4,20 +4,20 @@ permalink: /members/
 layout: categories
 
 feature_row:
-  - image_path: /assets/images/members/JC.jpg
+  - image_path: /assets/images/ETRI2021.gif
     image_caption: "2021"
     title: "Seung young Han"
     excerpt: "sadfasdf"
-  - image_path: /assets/images/members/JC.jpg
+  - image_path: /assets/images/ETRI2021.gif
     image_caption: "2021"
     title: "분류작업 태스크"
     excerpt: "모방학습을 이용한 무게에 따른 분류작업 태스크"
-  - image_path: /assets/images/SAWYER.gif
+  - image_path: /assets/images/ETRI2021.gif
     image_caption: "2020"
     title: "Pick and Place 태스크"
     excerpt: "강화학습을 이용한 Pick and Place 태스크"
 feature_row2:
-  - image_path: /assets/images/members/JC.jpg
+  - image_path: /assets/images/ETRI2021.gif
     image_caption: "ETRI-2020"
     alt: "placeholder image 2"
     title: "Placeholder 2"
