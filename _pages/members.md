@@ -3,7 +3,6 @@ title: "CPSC Lab's Members"
 permalink: /members/
 layout: categories
 
-# Ph.D students
 feature_row:
   - image_path: /assets/images/ETRI2021.gif
     image_caption: "2021"
@@ -56,7 +55,7 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 
-
+# Ph.D students
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
