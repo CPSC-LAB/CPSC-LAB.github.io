@@ -17,7 +17,7 @@ feature_row:
     title: "Pick and Place 태스크"
     excerpt: "강화학습을 이용한 Pick and Place 태스크"
 feature_row2:
-  - image_path: /assets/images/IL.gif
+  - image_path: /assets/images/members/JC.jpg
     image_caption: "ETRI-2020"
     alt: "placeholder image 2"
     title: "Placeholder 2"
