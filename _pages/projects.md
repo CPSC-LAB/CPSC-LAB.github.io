@@ -19,7 +19,7 @@ comments: false
   
 <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color:rgba(211, 211, 211, 0.2);"> 
   <br>
-    <span style="font-size: 30px; color:green"> 연구목표 </span><br>
+    <span style="font-size: 30px; color:green"> 　연구목표 </span><br>
     <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color:rgba(211, 211, 211, 0.2);"> 
       <span style="font-size: 13px">
         ■ 　로봇 매니퓰레이터의 Task 적용을 위한 <span style="color:salmon"><b>힘/위치 궤적 교시학습</b></span> 시스템 구축 <br>
@@ -29,7 +29,7 @@ comments: false
     </div>
     <br>
     <br>
-    <span style="font-size: 30px; color:green"> 연구내용 </span><br>
+    <span style="font-size: 30px; color:green"> 　연구내용 </span><br>
     <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color:rgba(211, 211, 211, 0.2);"> 
       <span style="font-size: 13px">
    ■ 　기존의 물리적 지능을 위한 교시학습에 대한 방법 조사 및 분석<br>
