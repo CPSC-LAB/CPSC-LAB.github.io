@@ -49,23 +49,27 @@ feature_row3:
     excerpt : ""
     
 feature_row4:
+
+
   - image_path: /assets/images/members/noface.jpg
-    image_caption: "2018년 박사 졸업"
-    title: "WooKyong Kwon"
-    excerpt : "포스코 -> 한국전자통신연구원(ETRI)"
-  - image_path: /assets/images/members/noface.jpg
-    image_caption: "2018년 박사 졸업"
-    title: "WooKyong Kwon"
-    excerpt : "포스코 -> 한국전자통신연구원(ETRI)"
-  - image_path: /assets/images/members/noface.jpg
-    image_caption: "2018년 박사 졸업"
-    title: "WooKyong Kwon"
-    excerpt : "포스코 -> 한국전자통신연구원(ETRI)"
-    
+    image_caption: "2015년 박사 졸업"
+    title: "Yajuan Liu"
+    excerpt : "North China Electric Power University 교수"
   - image_path: /assets/images/members/noface.jpg
     image_caption: "2017년 석사 졸업"
     title: "SangHun Jung"
     excerpt : "경북IT융합기술원"
+  - image_path: /assets/images/members/noface.jpg
+    image_caption: "2018년 박사 졸업"
+    title: "BaeYoung Koo"
+    excerpt : "포스코"  
+    
+    
+    
+  - image_path: /assets/images/members/noface.jpg
+    image_caption: "2018년 박사 졸업"
+    title: "WooKyong Kwon"
+    excerpt : "포스코 -> 한국전자통신연구원(ETRI)"
   - image_path: /assets/images/members/noface.jpg
     image_caption: "2018년 학사 졸업"
     title: "HoSub Lee"
@@ -76,19 +80,19 @@ feature_row4:
     excerpt : "서울대학교 진학"
 
     
-    
   - image_path: /assets/images/members/noface.jpg
-    image_caption: "2015년 박사 졸업"
-    title: "Yajuan Liu"
-    excerpt : "North China Electric Power University 교수"
+    image_caption: "2019년 학사 졸업"
+    title: "WanGyu Kim"
+    excerpt : "포항공과대학교(POSTECH) 진학"
   - image_path: /assets/images/members/noface.jpg
-    image_caption: "2018년 박사 졸업"
-    title: "BaeYoung Koo"
-    excerpt : "포스코"  
+    image_caption: "2019년 학사 졸업"
+    title: "BeomJu Kim"
+    excerpt : "한국가스공사"
   - image_path: /assets/images/members/noface.jpg
-    image_caption: "2018년 박사 졸업"
-    title: "WooKyong Kwon"
-    excerpt : "포스코 -> 한국전자통신연구원(ETRI)"
+    image_caption: "2019년 학사 졸업"
+    title: "EungChang Mason Lee"
+    excerpt : "한국과학기술원(KAIST) 진학"
+
 
     
 ---
