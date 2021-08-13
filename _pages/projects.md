@@ -107,22 +107,51 @@ comments: false
 ---
 
 <details>
-  <summary> <span style="font-size: 20px"> (2019.03~2019.11)<br>　　지능형 이동로봇 추적제어 알고리즘 구현 및 실험 </span> </summary>
+  <summary> <span style="font-size: 20px"> (2019.03~2019.11)<br>　　센서리스 매니퓰레이터의 외력 추정기 및 임피던스 제어기 설계에 대한 연구 </span> </summary>
+  
   <div markdown="1">
-This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)
-  </div>  
+<span style="font-size: 13px"> This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)</span>
+   </div>  
+  
+<div style="border: 1px solid black; padding: 10px; border-color: #E6E6E6; background-color: #EFFBF5;"> 
+  <br>
+    <span style="font-size: 30px; color:green"> 연구목표 </span><br>
+    <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color: rgba(211, 211, 211, 0.2);"> 
+      <span style="font-size: 13px">
+        　■ 　토크 센서가 없는 로봇 매니퓰레이터에 대한 수학적 모델 기반 외력 추정 알고리즘 개발 <br>
+         　■ 　모델 불확실성에 강인한 센서리스 임피던스 제어 알고리즘 개발 <br>
+         　■ 　7축 로봇 매니퓰레이터 대상 태스크 종속적인 임피던스 제어 타당성 검증
+        </span>
+    </div>
+    <br>
+    <br>
+    <span style="font-size: 30px; color:green"> 연구내용 </span><br>
+    <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color:rgba(211, 211, 211, 0.2);"> 
+      <span style="font-size: 13px">
+   　■ 　기존의 임피던스 제어 방법 및 센서리스 시스템에 대한 외력 추정 방법 조사 및 분석  <br>
+   　■ 　ROS 기반 로봇 제어 시스템 구축 <br>
+   　■ 　로봇 매니퓰레이터 모델링<br>
+   　■ 　힘 센서리스 시스템 의 엔드 이펙터에 발생하는 외력 검출기 설계 <br>
+   　■ 　모델 불확실성에 강인한 임피던스 제어기 설계<br>
+   　■ 　외력 검출기 기반의 임피던스 제어기 성능 평가<br>
+   　■ 　주어진 테스크에 대한 인간-로봇 협업 제어 시스템 구축
+        </span>
+    </div>
 <br>
-<p style="font-size:1rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
-　Research on Unmanned Aerial Vehicles has been actively conducted in recent years. In particular, the UAV to explore an unknown, GNSS-denied environment is required, but the self-localization method, such as Visual Inertial Odometry, is mandatory to operate it. Considering the payload and the operating time of the UAV, lightweight and low-power consuming cameras and IMU are preferred, and even Object Detection and 3D Mapping can be obtained using a RGB-D camera. In this work, we developed a 3D Mapping system including object positions in an unknown and GNSS-denied environment for the UAV with a RGB-D camera. The system is demonstrated in Gazebo simulator, and the quantitative and qualitative results are obtained.</p>
 
-<br>
-
-***Keywords***: Autonomous Vehicle, Visual servoing, Multi-Channel LiDAR , Sensor Fusion
+**Keywords**<br>
+  <span style="font-size: 13px"> Contact Force, Imitation Learning, Trajectory Learning, Inverse Reinforcement Learning, Manipulator</span>
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j8nnk5R37XU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-    </iframe>
+  <img height="250" src="/assets/images/ETRI2020.gif">
+   <p style="text-align:center;">그림 1. 의도를 이용한 모방학습 분류 작업 태스크에 적용</p>
+  <img height="250" src="/assets/images/ETRI2020-TRI.gif"> 
+   <p style="text-align:center;">그림 2. 의도를 이용한 모방학습 도형 그리기 태스크에 적용</p>
+  <img height="270" src="/assets/images/ETRI2020_BLOCK.JPG">
+   <p style="text-align:center;">그림 3. 제안하는 모방학습 프레임워크 블록 다이어그램</p>
 </p>
+  
+  </div>
 </details>
     
 ---
