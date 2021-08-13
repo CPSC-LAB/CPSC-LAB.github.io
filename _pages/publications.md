@@ -81,7 +81,6 @@ layout: categories
 | Yajuan Liu, Sangmoon Lee | [H∞ Sampled-Data Control of LPV Systems with Time-varying Delay](https://www.koreascience.or.kr/article/JAKO201503460492338.pdf) | The Transactions of the Korean Institute of Electrical Engineers |
 
 
-|  | [](#) |  |
 ## Notices
 
 **Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
