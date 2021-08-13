@@ -11,7 +11,7 @@ comments: false
 <span style="color:Salmon"> Click the titles to see the details </span>
 
 <details>
-  <summary> <span style="font-size: 30px"> (2021.04~2021.11)<br>다관절 로봇의 물리적 지능을 위한 교시학습 인공지능기술개발 </span> </summary>
+  <summary> <span style="font-size: 20px"> (2021.04~2021.11)<br>다관절 로봇의 물리적 지능을 위한 교시학습 인공지능기술개발 </span> </summary>
   <div markdown="1">
 This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)
   </div>  
@@ -31,7 +31,7 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
     <span style="font-size: 15px">
 　■  기존의 물리적 지능을 위한 교시학습에 대한 방법 조사 및 분석<br>
 　■  Task 적용 힘/위치 제어시스템을 구축 <br>
-　■  7축 다관절 로봇을 위한 직접 교시 환경을 구축<br>     　  
+　■  7축 다관절 로봇을 위한 직접 교시 환경을 구축<br>
 　■  다관절 로봇의 힘과 위치 정보를 이용한 교시학습 알고리즘 개발<br>
 　■  주어진 Task에 대한 모방학습 알고리즘 적용<br>
 　■  적용된 모방학습 알고리즘 성능 평가
@@ -52,7 +52,7 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 ---
 
 <details>
-  <summary> <span style="font-size: 30px"> (2020.04~2020.11)<br>　　다관절 로봇을 위한 인공지능 모방학습 기술 개발 </span> </summary>
+  <summary> <span style="font-size: 20px"> (2020.04~2020.11)<br>　　다관절 로봇을 위한 인공지능 모방학습 기술 개발 </span> </summary>
   <div markdown="1">
 This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)
   </div>  
@@ -73,7 +73,7 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 ---
 
 <details>
-  <summary> <span style="font-size: 30px"> (2019.04~2019.11)<br>　　로봇의 센서리스 기반 외력 추정 및 임피던스 제어 </span> </summary>
+  <summary> <span style="font-size: 20px"> (2019.04~2019.11)<br>　　로봇의 센서리스 기반 외력 추정 및 임피던스 제어 </span> </summary>
   <div markdown="1">
 This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)
   </div>  
@@ -94,7 +94,7 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 ---
 
 <details>
-  <summary> <span style="font-size: 30px"> (2019.03~2019.11)<br>　　지능형 이동로봇 추적제어 알고리즘 구현 및 실험 </span> </summary>
+  <summary> <span style="font-size: 20px"> (2019.03~2019.11)<br>　　지능형 이동로봇 추적제어 알고리즘 구현 및 실험 </span> </summary>
   <div markdown="1">
 This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)
   </div>  
@@ -115,7 +115,7 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 ---
 
 <details>
-  <summary> <span style="font-size: 30px"> (2018.06~2018.11)<br>　　2018 R-BIZ challenge  터틀봇3 오토레이스 </span> </summary>
+  <summary> <span style="font-size: 20px"> (2018.06~2018.11)<br>　　2018 R-BIZ challenge  터틀봇3 오토레이스 </span> </summary>
   <div markdown="1">
 This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)
   </div>  
@@ -135,7 +135,7 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 ---
 
 <details>
-  <summary> <span style="font-size: 30px"> (2018.03~2018.11)<br>　　다중주기 센서융합 기반 이동체 실시간 예측 제어 연구 </span> </summary>
+  <summary> <span style="font-size: 20px"> (2018.03~2018.11)<br>　　다중주기 센서융합 기반 이동체 실시간 예측 제어 연구 </span> </summary>
   <div markdown="1">
 This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)
   </div>  
@@ -156,7 +156,7 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 ---
 
 <details>
-  <summary> <span style="font-size: 30px"> (2016.11~2019.10)<br>　영상검출오류에 강인한 예측 비주얼 서보잉 기법 개발 </span> </summary>
+  <summary> <span style="font-size: 20px"> (2016.11~2019.10)<br>　영상검출오류에 강인한 예측 비주얼 서보잉 기법 개발 </span> </summary>
   <div markdown="1">
 This project was conducted at <span style="color:grin">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)
   </div>  
