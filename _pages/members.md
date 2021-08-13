@@ -48,7 +48,6 @@ feature_row3:
     title: "Kyung don Lee"
     excerpt : ""
     
-
 feature_row4:
   - image_path: /assets/images/members/noface.jpg
     image_caption: "2021~"
