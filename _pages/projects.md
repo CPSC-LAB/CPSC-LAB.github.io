@@ -17,10 +17,10 @@ comments: false
 <span style="font-size: 13px"> This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)</span>
    </div>  
   
-<div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color: rgba(211, 211, 211, 0.2);"> 
+<div style="border: 1px solid black; padding: 10px; border-color: #E0E0F8; background-color: #E0E0F8;"> 
   <br>
     <span style="font-size: 30px; color:green"> 연구목표 </span><br>
-    <div style="border: 1px solid black; padding: 10px; border-color: #CCEEFF; background-color: #CCEEFF;"> 
+    <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color: rgba(211, 211, 211, 0.2);"> 
       <span style="font-size: 13px">
         　■ 　로봇 매니퓰레이터의 Task 적용을 위한 <span style="color:salmon"><b>힘/위치 궤적 교시학습</b></span> 시스템 구축 <br>
          　■ 　직접 교시를 통한 <span style="color:salmon"><b>사용자 의도 파악(힘/위치)</b></span>이 가능한 교시학습 알고리즘 개발 <br>
