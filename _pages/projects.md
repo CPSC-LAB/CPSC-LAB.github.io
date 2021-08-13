@@ -47,8 +47,9 @@ comments: false
 
 <p align="center">
 <img height="250" src="/assets/images/ETRI2021.gif" alt="클리닝 태스크"> 
- <p style="text-align:center;">클리닝 태스크</p>
+ <p style="text-align:center;">그림 1. 클리닝 태스크</p>
   <img height="270" src="/assets/images/ETRI2021_BLOCK.jpg" alt="판다로봇과 힘 센서의 통신상태">
+ <p style="text-align:center;">그림 2. 판다로봇과 힘 센서의 통신상태</p>
 </p>
   
   </div>
@@ -68,9 +69,9 @@ comments: false
     <span style="font-size: 30px; color:green"> 연구목표 </span><br>
     <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color: rgba(211, 211, 211, 0.2);"> 
       <span style="font-size: 13px">
-        　■ 　가상환경을 활용한 로봇 매니퓰레이터의 경로 이동 모방학습방법 개발 <br>
-         　■ 　로봇의 교시 작업 시 사용자 의도 파악(힘+경로)을 위한 모방학습 알고리즘 개발 <br>
-         　■ 　다관절 로봇의 모방학습을 이용한 사용자 의도에 따른 접촉력 및 경로 이동작업 적용
+        　■ 　가상환경을 활용한 로봇 매니퓰레이터의 <span style="color:salmon"><b>경로 이동 모방학습방법</b></span> 개발 <br>
+         　■ 　로봇의 교시 작업 시 <span style="color:salmon"><b>사용자 의도 파악(힘+경로)을 위한 모방학습 알고리즘</b></span> 개발 <br>
+         　■ 　다관절 로봇의 모방학습을 이용한 <span style="color:salmon"><b>사용자 의도에 따른 접촉력 및 경로 이동작업</b></span> 적용
         </span>
     </div>
     <br>
