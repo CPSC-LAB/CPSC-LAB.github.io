@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Our Projects"
 permalink: /projects/
 excerpt: "A List of Projects"
