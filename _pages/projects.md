@@ -134,3 +134,24 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 </details>
     
 ---
+
+<details>
+  <summary> <span style="font-size: 20px"> (2016.11~2019.10)<br>　영상검출오류에 강인한 예측 비주얼 서보잉 기법 개발 </span> </summary>
+  <div markdown="1">
+This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)
+  </div>  
+<br>
+<p style="font-size:1rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
+　Visual servo control refers to the use of computer vision data to control the motion of a robot. The vision data may be acquired from a camera that is mounted directly on a robot manipulator or on a mobile robot, in which case motion of the robot induces camera motion, or the camera can be fixed in the workspace so that it can observe the robot motion from a stationary configuration. Other configurations can be considered such as, for instance, several cameras mounted on pan-tilt heads observing the robot motion.</p>
+
+<br>
+
+***Keywords***: Autonomous Vehicle, Visual servoing, Multi-Channel LiDAR , Sensor Fusion
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j8nnk5R37XU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    </iframe>
+</p>
+</details>
+    
+---
