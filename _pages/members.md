@@ -20,19 +20,19 @@ feature_row:
     
 feature_row2:
   - image_path: /assets/images/members/HI.jpg
-    image_caption: "ETRI-2020"
+    image_caption: "2020~"
     alt: "placeholder image 2"
-    title: "2020~"
+    title: "Hye in Jung~"
     excerpt: "　　　　　　　　　　　　　　　　　　　　　　　<br>Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br> E-mail : myshin0512@gmail.com"
   - image_path: /assets/images/members/JC.jpg
     image_caption: "2020~"
     alt: "placeholder image 2"
-    title: "Placeholder 2"
+    title: "Jong cheon Park"
     excerpt: "　　　　　　　　　　　　　　　　　　　　　　　<br>Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br> E-mail : myshin0512@gmail.com"
   - image_path: /assets/images/members/SH.jpg
     image_caption: "2020~"
     alt: "placeholder image 2"
-    title: "Placeholder 2"
+    title: "Seong hyeon Jo"
     excerpt: "　　　　　　　　　　　　　　　　　　　　　　　<br>Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br> E-mail : myshin0512@gmail.com"
     
 feature_row3:
