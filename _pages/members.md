@@ -52,6 +52,7 @@ feature_row4:
     image_caption: "2021~"
     title: "Yajuan Liu"
     excerpt : "North China Electric Power University 교수"
+    
 ---
 
 ### Ph.D. Candidate
