@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Sangmoon Lee"
-  avatar           : "/assets/images/selfie.jpg"
+  #avatar           : "/assets/images/selfie.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            : "moony@knu.ac.kr"
