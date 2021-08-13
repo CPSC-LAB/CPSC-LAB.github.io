@@ -93,11 +93,11 @@ comments: false
   <span style="font-size: 13px"> Contact Force, Imitation Learning, Trajectory Learning, Inverse Reinforcement Learning, Manipulator</span>
 
 <p align="center">
-<img height="250" src="/assets/images/ETRI2020_TRI.gif"> 
+<img height="250" src="/assets/images/ETRI2020-TRI.gif"> 
  <p style="text-align:center;">그림 1. 의도를 이용한 모방학습 도형 그리기 태스크에 적용</p>
 <img height="250" src="/assets/images/ETRI2020.gif">
  <p style="text-align:center;">그림 2. 의도를 이용한 모방학습 분류 작업 태스크에 적용</p>
-<img height="270" src="/assets/images/ETRI2020_BLOCK.jpg">
+<img height="270" src="/assets/images/ETRI2020_BLOCK.JPG">
  <p style="text-align:center;">그림 3. 제안하는 모방학습 프레임워크 블록 다이어그램</p>
 </p>
   
