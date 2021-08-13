@@ -11,7 +11,7 @@ comments: false
 <span style="color:Salmon"> Click the titles to see the details </span>
 
 <details>
-  <summary> <span style="font-size: 20px"> (2021.04~2021.11)<br>다관절 로봇의 물리적 지능을 위한 교시학습 인공지능기술개2발 </span> </summary>
+  <summary> <span style="font-size: 20px"> (2021.04~2021.11)<br>다관절 로봇의 물리적 지능을 위한 교시학습 인공지능기술개발 </span> </summary>
   
   <div markdown="1"> 
     This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/) 
