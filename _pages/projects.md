@@ -46,7 +46,7 @@ comments: false
   <span style="font-size: 13px"> Autonomous Vehicle, Visual servoing, Multi-Channel LiDAR , Sensor Fusion</span>
 
 <p align="center">
-<img width="560" height="315" src="/assets/images/ETRI2021.gif">
+<img width="150" height="150" src="/assets/images/ETRI2021.gif">
     </img>
 </p>
   
