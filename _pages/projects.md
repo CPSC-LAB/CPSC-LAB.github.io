@@ -40,7 +40,6 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 
 
 <br>
-## Notices
 
 **Keywords**: Autonomous Vehicle, Visual servoing, Multi-Channel LiDAR , Sensor Fusion
 
