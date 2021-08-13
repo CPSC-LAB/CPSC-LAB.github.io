@@ -3,7 +3,7 @@ main:
   - title: "Professor"
     url: /professor_intro/
   - title: "Member"
-    url: /year-archive/
+    url: /members/
   - title: "Research"
     url: /collection-archive/
   - title: "Publication"
