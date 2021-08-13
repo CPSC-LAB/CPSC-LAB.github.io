@@ -66,9 +66,9 @@ feature_row4:
 
 ### Under-graduate Student
 ---
-{% include feature_row id="feature_row3"}
+{% include feature_row id="feature_row3" %}
 
 ### Alumni
 ---
-{% include feature_row id="feature_row4"}
+{% include feature_row id="feature_row4" %}
 
