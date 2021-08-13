@@ -8,30 +8,30 @@ feature_row:
     image_caption: "2019~"
     alt: "placeholder image 2"
     title: "Seung yong Han"
-    excerpt: "Research Area<br> - Sampled-data control<br> - Robust control<br> - Visual servoing <br><br> cpsc.seungyong@gmail.com"
+    excerpt: "　　　　　　　　　　　　　　　　　　　　　　　<br>Research Area<br> - Sampled-data control<br> - Robust control<br> - Visual servoing <br><br> E-mail<br> cpsc.seungyong@gmail.com"
     
   - image_path: /assets/images/members/WS.jpg
     image_caption: "2020~"
     title: "Woo sang shin"
-    excerpt: "Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br><br> myshin0512@gmail.com"
+    excerpt: "　　　　　　　　　　　　　　　　　　　　　　　<br>Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br><br> E-mail<br> myshin0512@gmail.com"
     
   - image_path: /assets/images/members/noface.jpg
     image_caption: "2019~"
     title: "Hye min Lee"
-    
+    excerpt : "　　　　　　　　　　　　　　　　　　　　　　　<br>"
 feature_row2:
   - image_path: /assets/images/members/HI.jpg
     image_caption: "2019~"
     title: "Hye in Jung"
-    excerpt: "　　　　　　　　　　　　　　　　　　　　　　　　　　　　<br>Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br><br> cpsc.hyein@gmail.com"
+    excerpt: "　　　　　　　　　　　　　　　　　　　　　　　<br>Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br><br> E-mail<br> cpsc.hyein@gmail.com"
   - image_path: /assets/images/members/JC.jpg
     image_caption: "2020~"
     title: "Jong cheon Park"
-    excerpt: "　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<br>Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br><br> cpsc.jongcheon@gmail.com"
+    excerpt: "　　　　　　　　　　　　　　　　　　　　　　　<br>Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br><br> E-mail<br> cpsc.jongcheon@gmail.com"
   - image_path: /assets/images/members/SH.jpg
     image_caption: "2020~"
     title: "Seong hyeon Jo"
-    excerpt: "　　　　　　　　　　　　　　　　　　　　　　　　　<br>Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br><br> cpsc.seonghyeon@gmail.com"
+    excerpt: "　　　　　　　　　　　　　　　　　　　　　　　<br>Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br><br> E-mail<br>cpsc.seonghyeon@gmail.com"
     
 feature_row3:
   - image_path: /assets/images/ETRI2020.jpg
