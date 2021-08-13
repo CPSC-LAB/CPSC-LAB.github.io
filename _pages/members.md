@@ -23,15 +23,15 @@ feature_row2:
   - image_path: /assets/images/members/HI.jpg
     image_caption: "2019~"
     title: "Hye in Jung"
-    excerpt: "　　　　　　　　　　　　　　　　　　<br>Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br><br> cpsc.hyein@gmail.com"
+    excerpt: "　　　　　　　　　　　　　　　　　　　　　　　　　　　　<br>Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br><br> cpsc.hyein@gmail.com"
   - image_path: /assets/images/members/JC.jpg
     image_caption: "2020~"
     title: "Jong cheon Park"
-    excerpt: "　　　　　　　　　　　　　　　　　　　　<br>Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br><br> cpsc.jongcheon@gmail.com"
+    excerpt: "　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<br>Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br><br> cpsc.jongcheon@gmail.com"
   - image_path: /assets/images/members/SH.jpg
     image_caption: "2020~"
     title: "Seong hyeon Jo"
-    excerpt: "　　　　　　　　　　　　　　　<br>Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br><br> cpsc.seonghyeon@gmail.com"
+    excerpt: "　　　　　　　　　　　　　　　　　　　　　　　　　<br>Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br><br> cpsc.seonghyeon@gmail.com"
     
 feature_row3:
   - image_path: /assets/images/ETRI2020.jpg
