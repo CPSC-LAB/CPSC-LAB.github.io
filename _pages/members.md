@@ -8,11 +8,11 @@ feature_row:
     image_caption: "2019~"
     alt: "placeholder image 2"
     title: "Seung yong Han"
-    excerpt: "Research Area<br> - Sampled-data control<br> - Robust control<br> - Visual servoing<br> - Autonomous car control <br> E-mail : cpsc.seungyong@gmail.com"
+    excerpt: "Research Area<br> - Sampled-data control<br> - Robust control<br> - Visual servoing<br> <br> E-mail : cpsc.seungyong@gmail.com"
   - image_path: /assets/images/members/WS.jpg
     image_caption: "2020~"
     title: "Woo sang shin"
-    excerpt: "<br>Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br> E-mail : myshin0512@gmail.com"
+    excerpt: "Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br> E-mail : myshin0512@gmail.com"
   - image_path: /assets/images/members/noface.jpg
     image_caption: "2019~"
     title: "Hye min Lee"
@@ -22,15 +22,15 @@ feature_row2:
   - image_path: /assets/images/members/HI.jpg
     image_caption: "2019~"
     title: "Hye in Jung~"
-    excerpt: "<br>Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br> E-mail : myshin0512@gmail.com"
+    excerpt: "Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br> E-mail : myshin0512@gmail.com"
   - image_path: /assets/images/members/JC.jpg
     image_caption: "2020~"
     title: "Jong cheon Park"
-    excerpt: "<br>Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br> E-mail : myshin0512@gmail.com"
+    excerpt: "Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br> E-mail : myshin0512@gmail.com"
   - image_path: /assets/images/members/SH.jpg
     image_caption: "2020~"
     title: "Seong hyeon Jo"
-    excerpt: "<br>Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br> E-mail : myshin0512@gmail.com"
+    excerpt: "Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br> E-mail : myshin0512@gmail.com"
     
 feature_row3:
   - image_path: /assets/images/ETRI2020.jpg
