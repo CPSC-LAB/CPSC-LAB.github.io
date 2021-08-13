@@ -7,7 +7,7 @@ feature_row:
   - image_path: /assets/images/members/SY.jpg
     image_caption: "2019~"
     title: "Seung yong Han"
-    excerpt: "E-mail : cpsc.seungyong@gmail.com<br><br>Research Area:Sampled-data control / Robust control / Visual servoing / Autonomous car control"
+    excerpt: "E-mail : cpsc.seungyong@gmail.com<br><br>Research Area<br> * Sampled-data control <br> * Robust control <br> * Visual servoing <br> * Autonomous car control"
   - image_path: /assets/images/members/WS.jpg
     image_caption: "2020~"
     title: "Woo sang shin"
