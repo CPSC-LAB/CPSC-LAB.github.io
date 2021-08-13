@@ -37,32 +37,21 @@ feature_row2:
     excerpt : "　　　　　　　　　　　　　　　　　　　　　　　<br>"
     
 feature_row3:
-  - image_path: /assets/images/ETRI2020.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/members/noface.jpg
+    image_caption: "2021~"
+    title: "Gi hoo Kim"
+    excerpt : "　　　　　　　　　　　　　　　　　　　　　　　<br>"
+    - image_path: /assets/images/members/noface.jpg
+    image_caption: "2021~"
+    title: "Kyung don Lee"
+    excerpt : "　　　　　　　　　　　　　　　　　　　　　　　<br>"
+    
 
 feature_row4:
-  - image_path: /assets/images/ETRI2018.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/ETRI2020.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    - image_path: /assets/images/members/noface.jpg
+    image_caption: "2021~"
+    title: "Yajuan Liu"
+    excerpt : "North China Electric Power University 교수"
 ---
 
 ### Ph.D. Candidate
@@ -79,5 +68,5 @@ feature_row4:
 
 ### Alumni
 ---
-{% include feature_row id="feature_row4" type="left"%}
+{% include feature_row id="feature_row4"}
 
