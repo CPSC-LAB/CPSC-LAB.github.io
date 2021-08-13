@@ -4,11 +4,11 @@ permalink: /members/
 layout: categories
 
 feature_row:
-  - image_path: /assets/images/members/SY.jpg
+  - image_path: /assets/images/members/JC.jpg
     image_caption: "2021"
     title: "Seung young Han"
     excerpt: "sadfasdf"
-  - image_path: /assets/images/members/SY.jpg
+  - image_path: /assets/images/members/JC.jpg
     image_caption: "2021"
     title: "분류작업 태스크"
     excerpt: "모방학습을 이용한 무게에 따른 분류작업 태스크"
