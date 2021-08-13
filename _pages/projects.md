@@ -22,9 +22,9 @@ comments: false
     <span style="font-size: 30px; color:green"> 연구목표 </span><br>
     <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color:rgba(211, 211, 211, 0.2);"> 
       <span style="font-size: 13px">
-         ■  로봇 매니퓰레이터의 Task 적용을 위한 <span style="color:salmon"> 힘/위치 궤적 교시학습</span> 시스템 구축 <br>
-         ■  직접 교시를 통한 <span style="color:salmon"> 사용자 의도 파악(힘/위치)</span>이 가능한 교시학습 알고리즘 개발 <br>
-         ■  7축 다관절 로봇을 활용한 <span style="color:salmon"> 실제 작업</span>에 대한 모방학습 알고리즘 적용 및 검증
+         ■ 　로봇 매니퓰레이터의 Task 적용을 위한 <span style="color:salmon"> 힘/위치 궤적 교시학습</span> 시스템 구축 <br>
+         ■ 　직접 교시를 통한 <span style="color:salmon"> 사용자 의도 파악(힘/위치)</span>이 가능한 교시학습 알고리즘 개발 <br>
+         ■ 　7축 다관절 로봇을 활용한 <span style="color:salmon"> 실제 작업</span>에 대한 모방학습 알고리즘 적용 및 검증
         </span>
     </div>
     <br>
@@ -32,12 +32,12 @@ comments: false
     <span style="font-size: 30px; color:green"> 연구내용 </span><br>
     <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color:rgba(211, 211, 211, 0.2);"> 
       <span style="font-size: 13px">
-   ■  기존의 물리적 지능을 위한 교시학습에 대한 방법 조사 및 분석<br>
-   ■  Task 적용 힘/위치 제어시스템을 구축 <br>
-   ■  7축 다관절 로봇을 위한 직접 교시 환경을 구축<br>
-   ■  다관절 로봇의 힘과 위치 정보를 이용한 교시학습 알고리즘 개발<br>
-   ■  주어진 Task에 대한 모방학습 알고리즘 적용<br>
-   ■  적용된 모방학습 알고리즘 성능 평가
+   ■ 　기존의 물리적 지능을 위한 교시학습에 대한 방법 조사 및 분석<br>
+   ■ 　Task 적용 힘/위치 제어시스템을 구축 <br>
+   ■ 　7축 다관절 로봇을 위한 직접 교시 환경을 구축<br>
+   ■ 　다관절 로봇의 힘과 위치 정보를 이용한 교시학습 알고리즘 개발<br>
+   ■ 　주어진 Task에 대한 모방학습 알고리즘 적용<br>
+   ■ 　적용된 모방학습 알고리즘 성능 평가
         </span>
     </div>
 </div>
