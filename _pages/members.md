@@ -5,16 +5,16 @@ layout: categories
 
 feature_row:
   - image_path: /assets/images/members/SY.jpg
-    image_caption: "2021"
+    image_caption: "2019~"
     title: "Seung yong Han"
-    excerpt: "sadfasdf"
-  - image_path: /assets/images/ETRI2021.gif
-    image_caption: "2021"
-    title: "분류작업 태스크"
+    excerpt: "E-mail : cpsc.seungyong@gmail.com<br><br>Research Area:Sampled-data control / Robust control / Visual servoing / Autonomous car control"
+  - image_path: /assets/images/members/WS.jpg
+    image_caption: "2020~"
+    title: "Woo sang shin"
     excerpt: "모방학습을 이용한 무게에 따른 분류작업 태스크"
-  - image_path: /assets/images/ETRI2021.gif
-    image_caption: "2020"
-    title: "Pick and Place 태스크"
+  - image_path: /assets/images/members/noface.jpg
+    image_caption: "2019~"
+    title: "Hye min Lee"
     excerpt: "강화학습을 이용한 Pick and Place 태스크"
     
 feature_row2:
@@ -57,7 +57,7 @@ feature_row4:
 ---
 
 ### Ph.D. Candidate
-{% include feature_row id="feature_row" type="center"  %}
+{% include feature_row id="feature_row" type="left" %}
 
 ### M.S. Candidate
 {% include feature_row id="feature_row2" type="left"%}
