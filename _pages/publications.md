@@ -19,8 +19,8 @@ layout: categories
 
 | Authors| Paper| Journal|
 | --------| ------  | ------------------------------------------------------------ |
-| Wookyong Kwon, Yongsik Jin, Dongyeop Kang, Sangmoon Lee*  |  [Affine Memory Control for Synchronization of Delayed Fuzzy Neural Networks](#)  |     IEEE Access         |
-| Seungyong Han, Suneel Kumar Kommuri, Sangmoon Lee* |  [Affine transformed IT2 fuzzy event-triggered control under deception attacks](#) |   IEEE Transactions on Fuzzy Systems     |
+| Wookyong Kwon, Yongsik Jin, Dongyeop Kang, Sangmoon Lee*  |  [Affine Memory Control for Synchronization of Delayed Fuzzy Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9311203)  |     IEEE Access         |
+| Seungyong Han, Suneel Kumar Kommuri, Sangmoon Lee* |  [Affine transformed IT2 fuzzy event-triggered control under deception attacks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9107420) |   IEEE Transactions on Fuzzy Systems     |
 | Hyein Jung, Seungyong Han, Sangmoon Lee*  |  [Event-Triggered H2 Attitude Controller Design for 3 DOF Hover Systems](https://www.koreascience.or.kr/article/JAKO202019163739834.pdf)  |   IEMEK Journal of Embedded Systems and Applications   |
 
 ## 2019
@@ -35,10 +35,10 @@ layout: categories
 
 | Authors| Paper| Journal|
 | --------| ------  | ------------------------------------------------------------ |
-|Wookyong Kwon, Baeyoung Koo, SM Lee* | [Integral-based event-triggered synchronization criteria for chaotic Lur’e systems with networked PD control](#)  | Nonlinear Dynamics |
-|Sangmoon Lee* | [Novel stabilization criteria for T–S fuzzy systems with affine matched membership functions](#)  | IEEE Transactions on Fuzzy Systems |
-|Wookyong Kwon, Baeyoung Koo, Sang-Moon Lee* | [Novel Lyapunov–Krasovskii functional with delay-dependent matrix for stability of time-varying delay systems](#)  | Applied Mathematics and Computation |
-|Seungyong Han, Sangmoon Lee* | [Sampled-Data MPC for Leader-Following of Multi-Mobile Robot System](#)  | The Transactions of the Korean Institute of Electrical Engineers |
+|Wookyong Kwon, Baeyoung Koo, SM Lee* | [Integral-based event-triggered synchronization criteria for chaotic Lur’e systems with networked PD control](https://link.springer.com/content/pdf/10.1007/s11071-018-4405-9.pdf)  | Nonlinear Dynamics |
+|Sangmoon Lee* | [Novel stabilization criteria for T–S fuzzy systems with affine matched membership functions](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8425757)  | IEEE Transactions on Fuzzy Systems |
+|Wookyong Kwon, Baeyoung Koo, Sang-Moon Lee* | [Novel Lyapunov–Krasovskii functional with delay-dependent matrix for stability of time-varying delay systems](https://reader.elsevier.com/reader/sd/pii/S0096300317306641?token=7102BD10422101F80897F21952EE5C10550C038C542727BDFBD0B6C8406953BE4620D4E838F7DC2F625B70617B0BE4BE&originRegion=us-east-1&originCreation=20210813071127)  | Applied Mathematics and Computation |
+|Seungyong Han, Sangmoon Lee* | [Sampled-Data MPC for Leader-Following of Multi-Mobile Robot System](https://www.koreascience.or.kr/article/JAKO201810038011167.pdf)  | The Transactions of the Korean Institute of Electrical Engineers |
 
 ## Notices
 
