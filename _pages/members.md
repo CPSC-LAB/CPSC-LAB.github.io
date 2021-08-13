@@ -7,12 +7,12 @@ feature_row:
   - image_path: /assets/images/members/SY.jpg
     image_caption: "2019~"
     title: "SeungYong Han"
-    excerpt: "　　　　　　　　　　　　　　　　　　　　　　　<br>**Research Area text**<br> - Sampled-data control<br> - Robust control<br> - Visual servoing <br><br> **E-mail** : cpsc.seungyong@gmail.com"
+    excerpt: "　　　　　　　　　　　　　　　　　　　　　　　<br>**Research Area**<br> - Sampled-data control<br> - Robust control<br> - Visual servoing <br><br> **E-mail** : cpsc.seungyong@gmail.com"
     
   - image_path: /assets/images/members/WS.jpg
     image_caption: "2020~"
     title: "WooSang shin"
-    excerpt: "　　　　　　　　　　　　　　　　　　　　　　　<br>**Research Area text**<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br><br> **E-mail**<br> myshin0512@gmail.com"
+    excerpt: "　　　　　　　　　　　　　　　　　　　　　　　<br>**Research Area**<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br><br> **E-mail**<br> myshin0512@gmail.com"
     
   - image_path: /assets/images/members/noface.jpg
     image_caption: "2019~"
