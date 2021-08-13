@@ -8,29 +8,28 @@ feature_row:
     image_caption: "2019~"
     alt: "placeholder image 2"
     title: "Seung yong Han"
-    excerpt: "Research Area<br> - Sampled-data control<br> - Robust control<br> - Visual servoing<br> <br> E-mail : cpsc.seungyong@gmail.com"
+    excerpt: "Research Area<br> - Sampled-data control<br> - Robust control<br> - Visual servoing<br> cpsc.seungyong@gmail.com"
   - image_path: /assets/images/members/WS.jpg
     image_caption: "2020~"
     title: "Woo sang shin"
-    excerpt: "Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br> E-mail : myshin0512@gmail.com"
+    excerpt: "Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br> myshin0512@gmail.com"
   - image_path: /assets/images/members/noface.jpg
     image_caption: "2019~"
     title: "Hye min Lee"
-    excerpt: "강화학습을 이용한 Pick and Place 태스크"
     
 feature_row2:
   - image_path: /assets/images/members/HI.jpg
     image_caption: "2019~"
     title: "Hye in Jung"
-    excerpt: "Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br> E-mail : myshin0512@gmail.com"
+    excerpt: "Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br>  cpsc.hyein@gmail.com"
   - image_path: /assets/images/members/JC.jpg
     image_caption: "2020~"
     title: "Jong cheon Park"
-    excerpt: "Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br> E-mail : myshin0512@gmail.com"
+    excerpt: "Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br>  cpsc.jongcheon@gmail.com"
   - image_path: /assets/images/members/SH.jpg
     image_caption: "2020~"
     title: "Seong hyeon Jo"
-    excerpt: "Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br> E-mail : myshin0512@gmail.com"
+    excerpt: "Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br>  cpsc.seonghyeon@gmail.com"
     
 feature_row3:
   - image_path: /assets/images/ETRI2020.jpg
