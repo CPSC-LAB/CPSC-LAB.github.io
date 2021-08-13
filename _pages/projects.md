@@ -2,6 +2,7 @@
 title: "Our Projects"
 permalink: /projects/
 excerpt: "A List of Projects"
+layout: categories
 comments: false
 ---
 
