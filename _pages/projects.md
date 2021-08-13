@@ -24,11 +24,20 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
       　■ 7축 다관절 로봇을 활용한 실제 작업에 대한 모방학습 알고리즘 적용 및 검증
       </span>
   </div>
+  <br>
+  <br>
+  <span style="font-size: 30px; color:grin"> 연구내용 </span><br>
+  <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color:rgba(211, 211, 211, 0.2);"> 
+    <span style="font-size: 15px">
+        ■ 기존의 물리적 지능을 위한 교시학습에 대한 방법 조사 및 분석<br>
+        ■ Task 적용 힘/위치 제어시스템을 구축 <br>
+        ■ 7축 다관절 로봇을 위한 직접 교시 환경을 구축<br>
+        ■ 다관절 로봇의 힘과 위치 정보를 이용한 교시학습 알고리즘 개발<br>
+        ■ 주어진 Task에 대한 모방학습 알고리즘 적용<br>
+        ■ 적용된 모방학습 알고리즘 성능 평가
+      </span>
+  </div>
 
-
-<p style="font-size:1rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
-　Research on Unmanned Aerial Vehicles has been actively conducted in recent years. In particular, the UAV to explore an unknown, GNSS-denied environment is required, but the self-localization method, such as Visual Inertial Odometry, is mandatory to operate it. Considering the payload and the operating time of the UAV, lightweight and low-power consuming cameras and IMU are preferred, and even Object Detection and 3D Mapping can be obtained using a RGB-D camera. In this work, we developed a 3D Mapping system including object positions in an unknown and GNSS-denied environment for the UAV with a RGB-D camera. The system is demonstrated in Gazebo simulator, and the quantitative and qualitative results are obtained.
-</p>
 
 <br>
 
