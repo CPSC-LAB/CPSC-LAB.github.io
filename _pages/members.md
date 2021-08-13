@@ -23,7 +23,7 @@ feature_row2:
   - image_path: /assets/images/members/HI.jpg
     image_caption: "2019~"
     title: "Hye in Jung"
-    excerpt: "　　　　　　　　　　　　　　　　　　　　　　　<br>Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br><br> E-mail<br> cpsc.hyein@gmail.com"
+    excerpt: "　　　　　　　　　　　　　　　　　　　　　　　<br>Research Area<br> - robotics <br> - Output feedback Control <br> - 3 DOF hover system <br><br> E-mail<br> cpsc.hyein@gmail.com"
   - image_path: /assets/images/members/JC.jpg
     image_caption: "2020~"
     title: "Jong cheon Park"
@@ -31,7 +31,11 @@ feature_row2:
   - image_path: /assets/images/members/SH.jpg
     image_caption: "2020~"
     title: "Seong hyeon Jo"
-    excerpt: "　　　　　　　　　　　　　　　　　　　　　　　<br>Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br><br> E-mail<br>cpsc.seonghyeon@gmail.com"
+    excerpt: "　　　　　　　　　　　　　　　　　　　　　　　<br>Research Area<br> - Machine Learning <br> - Artificial Neural Network <br> - Cyber-Physical systems <br><br> E-mail<br>cpsc.seonghyeon@gmail.com"
+  - image_path: /assets/images/members/noface.jpg
+    image_caption: "2020~"
+    title: "Jin seong Kim"
+    excerpt : "　　　　　　　　　　　　　　　　　　　　　　　<br>"
     
 feature_row3:
   - image_path: /assets/images/ETRI2020.jpg
