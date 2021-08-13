@@ -16,8 +16,9 @@ comments: false
 This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)
   </div>  
 <br>
-  # 연구목표
-    * 로봇 매니퓰레이터의 Task 적용을 위한 힘/위치 궤적 교시학습 시스템 구축 
+  연구목표<br>
+  .* 로봇 매니퓰레이터의 Task 적용을 위한 힘/위치 궤적 교시학습 시스템 구축  { border-color: LightGray; }
+
 <p style="font-size:1rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
 　Research on Unmanned Aerial Vehicles has been actively conducted in recent years. In particular, the UAV to explore an unknown, GNSS-denied environment is required, but the self-localization method, such as Visual Inertial Odometry, is mandatory to operate it. Considering the payload and the operating time of the UAV, lightweight and low-power consuming cameras and IMU are preferred, and even Object Detection and 3D Mapping can be obtained using a RGB-D camera. In this work, we developed a 3D Mapping system including object positions in an unknown and GNSS-denied environment for the UAV with a RGB-D camera. The system is demonstrated in Gazebo simulator, and the quantitative and qualitative results are obtained.
 </p>
