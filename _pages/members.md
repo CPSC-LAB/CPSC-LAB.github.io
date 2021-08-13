@@ -19,16 +19,21 @@ feature_row:
     excerpt: "강화학습을 이용한 Pick and Place 태스크"
     
 feature_row2:
-  - image_path: /assets/images/members/JC.jpg
+  - image_path: /assets/images/members/HI.jpg
     image_caption: "ETRI-2020"
     alt: "placeholder image 2"
     title: "2020~"
+    excerpt: "　　　　　　　　　　　　　　　　　　　　　　　<br>Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br> E-mail : myshin0512@gmail.com"
+  - image_path: /assets/images/members/JC.jpg
+    image_caption: "2020~"
+    alt: "placeholder image 2"
+    title: "Placeholder 2"
     excerpt: "　　　　　　　　　　　　　　　　　　　　　　　<br>Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br> E-mail : myshin0512@gmail.com"
   - image_path: /assets/images/members/SH.jpg
     image_caption: "2020~"
     alt: "placeholder image 2"
     title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "　　　　　　　　　　　　　　　　　　　　　　　<br>Research Area<br> - A.I, Deep learning<br> - Machine learning<br> - Computer vision and science <br> E-mail : myshin0512@gmail.com"
     
 feature_row3:
   - image_path: /assets/images/ETRI2020.jpg
