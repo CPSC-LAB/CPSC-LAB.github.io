@@ -18,7 +18,7 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 <br>
   연구목표<br>
 
-  <div style="border: 1px solid black; padding: 10px;"> ㅎㅇ. </div>
+  <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color:rgba(211, 211, 211, 0.2);"> ㅎㅇ. </div>
 
 
 <p style="font-size:1rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
