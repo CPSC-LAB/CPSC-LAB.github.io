@@ -64,11 +64,14 @@ feature_row4:
 {% include feature_row id="feature_row" type="left" %}
 
 ### M.S. Candidate
+---
 {% include feature_row id="feature_row2" type="left"%}
 
 ### Under-graduate Student
+---
 {% include feature_row id="feature_row3" type="left"%}
 
 ### Alumni
+---
 {% include feature_row id="feature_row4" type="left"%}
 
