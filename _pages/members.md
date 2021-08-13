@@ -4,6 +4,7 @@ permalink: /members/
 layout: categories
 
 excerpt: "Ph.D students"
+title: "Ph.D students"
 feature_row:
   - image_path: /assets/images/ETRI2021.gif
     image_caption: "2021"
