@@ -17,7 +17,8 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
   </div>  
 <br>
   연구목표<br>
-.txtBox00{ border-style: solid; border-width: 2px; padding: 12px; word-break: break-all; } .txtBox00 { border-color: LightGray; }
+.txtBox00bg, .txtBox01bg, .txtBox02bg, .txtBox03bg, .txtBox04bg { border-style: solid; border-width: 2px; padding: 12px; word-break: break-all; } .txtBox00bg { border-color: LightGray; background-color:rgba(211, 211, 211, 0.2); } .txtBox01bg { border-color: DodgerBlue; background-color:rgba(30, 144, 255, 0.2); } .txtBox02bg { border-color: LightSalmon; background-color:rgba(255, 160, 122, 0.2); } .txtBox03bg { border-color: Tomato; background-color:rgba(255, 99, 71, 0.2); } .txtBox04bg { border-color: Crimson; background-color:rgba(237, 20, 61, 0.2); }
+
 
 <p style="font-size:1rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
 　Research on Unmanned Aerial Vehicles has been actively conducted in recent years. In particular, the UAV to explore an unknown, GNSS-denied environment is required, but the self-localization method, such as Visual Inertial Odometry, is mandatory to operate it. Considering the payload and the operating time of the UAV, lightweight and low-power consuming cameras and IMU are preferred, and even Object Detection and 3D Mapping can be obtained using a RGB-D camera. In this work, we developed a 3D Mapping system including object positions in an unknown and GNSS-denied environment for the UAV with a RGB-D camera. The system is demonstrated in Gazebo simulator, and the quantitative and qualitative results are obtained.
