@@ -6,9 +6,9 @@ layout: categories
 feature_row:
   - image_path: /assets/images/members/SY.jpg
     image_caption: "2021"
-    title: "클리닝 태스크"
-    excerpt: "로봇 매니퓰레이터 앤드이펙터의 접촉력을 추정하고 추정된 접촉력을 활용한 클리닝 태스크"
-  - image_path: /assets/images/ETRI2020.gif
+    title: "Seung young Han"
+    excerpt: "sadfasdf"
+  - image_path: /assets/images/members/SY.jpg
     image_caption: "2021"
     title: "분류작업 태스크"
     excerpt: "모방학습을 이용한 무게에 따른 분류작업 태스크"
