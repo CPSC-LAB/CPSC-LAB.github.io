@@ -29,12 +29,12 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
   <span style="font-size: 30px; color:green"> 연구내용 </span><br>
   <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color:rgba(211, 211, 211, 0.2);"> 
     <span style="font-size: 15px">
-        ■ 기존의 물리적 지능을 위한 교시학습에 대한 방법 조사 및 분석<br>
-        ■ Task 적용 힘/위치 제어시스템을 구축 <br>
-        ■ 7축 다관절 로봇을 위한 직접 교시 환경을 구축<br>
-        ■ 다관절 로봇의 힘과 위치 정보를 이용한 교시학습 알고리즘 개발<br>
-        ■ 주어진 Task에 대한 모방학습 알고리즘 적용<br>
-        ■ 적용된 모방학습 알고리즘 성능 평가
+     　■ 기존의 물리적 지능을 위한 교시학습에 대한 방법 조사 및 분석<br>
+     　 ■ Task 적용 힘/위치 제어시스템을 구축 <br>
+      　■ 7축 다관절 로봇을 위한 직접 교시 환경을 구축<br>     　  
+      　■ 다관절 로봇의 힘과 위치 정보를 이용한 교시학습 알고리즘 개발<br>
+      　■ 주어진 Task에 대한 모방학습 알고리즘 적용<br>
+      　■ 적용된 모방학습 알고리즘 성능 평가
       </span>
   </div>
 
