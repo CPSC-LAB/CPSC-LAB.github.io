@@ -41,12 +41,12 @@ feature_row3:
   - image_path: /assets/images/members/noface.jpg
     image_caption: "2021~"
     title: "Gi hoo Kim"
-    excerpt : "　　　　　　　　　　　　　　　　　　　　　　　<br>"
+    excerpt : ""
     
   - image_path: /assets/images/members/noface.jpg
     image_caption: "2021~"
     title: "Kyung don Lee"
-    excerpt : "　　　　　　　　　　　　　　　　　　　　　　　<br>"
+    excerpt : ""
     
 
 feature_row4:
@@ -67,7 +67,7 @@ feature_row4:
 
 ### Under-graduate Student
 ---
-{% include feature_row id="feature_row3" type="left"%}
+{% include feature_row id="feature_row3"}
 
 ### Alumni
 ---
