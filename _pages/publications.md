@@ -40,6 +40,36 @@ layout: categories
 |Wookyong Kwon, Baeyoung Koo, Sang-Moon Lee* | [Novel Lyapunov–Krasovskii functional with delay-dependent matrix for stability of time-varying delay systems](https://reader.elsevier.com/reader/sd/pii/S0096300317306641?token=7102BD10422101F80897F21952EE5C10550C038C542727BDFBD0B6C8406953BE4620D4E838F7DC2F625B70617B0BE4BE&originRegion=us-east-1&originCreation=20210813071127)  | Applied Mathematics and Computation |
 |Seungyong Han, Sangmoon Lee* | [Sampled-Data MPC for Leader-Following of Multi-Mobile Robot System](https://www.koreascience.or.kr/article/JAKO201810038011167.pdf)  | The Transactions of the Korean Institute of Electrical Engineers |
 
+## 2017
+
+| Authors| Paper| Journal|
+| --------| ------  | ------------------------------------------------------------ |
+| Yajuan Liu, Bao-Zhu Guo, Ju H Park, Sangmoon Lee | [Event-based reliable dissipative filtering for T–S fuzzy systems with asynchronous constraints](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8066358)  | IEEE Transactions on Fuzzy Systems  |
+| Baeyoung Koo, Wookyong Kwon, Sangmoon Lee | [Integral-based event-triggered PD control for systems with network-induced delay using a quadratic generalised free-weighting matrix inequality](#)  |  IET Control Theory & Applications |
+| Baeyoung Koo, Wookyong Kwon, Sangmoon Lee, Chongsoo Lee | [Event-triggered proportional-derivative control for nonlinear network systems with a novel event-triggering scheme: Differential of triggered state consideration](https://journals.sagepub.com/doi/pdf/10.1177/1687814017717941)  |  Advances in Mechanical Engineering |
+| Sangmoon Lee, Ohmin Kwon | [Quantised MPC for LPV systems by using new Lyapunov–Krasovskii functional](#)  |  IET Control Theory & Applications |
+
+## 2016
+
+| Authors| Paper| Journal|
+| OM Kwon, Myeong-Jin Park, Ju H Park, Sang-Moon Lee | [Improvement on the feasible region of H∞ performance and stability for systems with interval time-varying delays via augmented Lyapunov–Krasivskii functional](https://reader.elsevier.com/reader/sd/pii/S0016003216303246?token=D596113EEBBC234483123C52C4DDDF0BC158B09D2DF3E6D9BB1F5F98382AF89ADE019E111EE41BDAC928CE0E5806E7C3&originRegion=us-east-1&originCreation=20210813072106) | Journal of the Franklin Institute |
+| OM Kwon, Myeong-Jin Park, Ju H Park, Sang-Moon Lee | [Stability and stabilization of TS fuzzy systems with time-varying delays via augmented Lyapunov-Krasovskii functionals](https://reader.elsevier.com/reader/sd/pii/S002002551630603X?token=5E645B4C1AB5D57B911F0453DE7909913CDF35A77A7B54E912733775FDD2CBC8C9426DE35BF00B7E3C0506AAEE0520CD&originRegion=us-east-1&originCreation=20210813072108) | Information Sciences |
+| Yajuan Liu, Bao-Zhu Guo, Ju H Park, Sang-Moon Lee | [Nonfragile exponential synchronization of delayed complex dynamical networks with memory sampled-data control](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7636934) | IEEE transactions on neural networks and learning systems |
+| Yajuan Liu, Sang-Moon Lee | [Synchronization criteria of chaotic Lur׳ e systems with delayed feedback PD control](https://reader.elsevier.com/reader/sd/pii/S0925231215020019?token=3D83A6CA063EF5EF4E37BEB30A99F7E7825639C55B12FBCFF4A2B8791C5288E35A2CB2CF6DF9AA6EA7DE3F5D0346BBAB&originRegion=us-east-1&originCreation=20210813072113) | Neurocomputing |
+| Oh Min Kwon, Myeong Jin Park, Ju H Park, Sang Moon Lee | [Enhancement on stability criteria for linear systems with interval time-varying delays](https://link.springer.com/content/pdf/10.1007/s12555-015-2003-x.pdf) | International Journal of Control, Automation and Systems |
+| Ki-Hoon Kim, Myeong-Jin Park, Oh-Min Kwon, Sang-Moon Lee, Eun-Jong Cha | [Stability and Robust H∞ Control for Time-Delayed Systems with Parameter Uncertainties and Stochastic Disturbances](https://www.koreascience.or.kr/article/JAKO201612455007288.pdf) | Journal of Electrical Engineering and Technology |
+
+## 2017
+
+| Authors| Paper| Journal|
+|  | [](#) |  |
+|  | [](#) |  |
+|  | [](#) |  |
+|  | [](#) |  |
+|  | [](#) |  |
+|  | [](#) |  |
+
+
 ## Notices
 
 **Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
