@@ -174,21 +174,49 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 
 <details>
   <summary> <span style="font-size: 20px"> (2018.03~2018.11)<br>　다중주기 센서융합 기반 이동체 실시간 예측 제어 연구 </span> </summary>
+  
   <div markdown="1">
-This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)
-  </div>  
+<span style="font-size: 13px"> This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)</span>
+   </div>  
+  
+<div style="border: 1px solid black; padding: 10px; border-color: #E6E6E6; background-color: #EFFBF5;"> 
+  <br>
+    <span style="font-size: 30px; color:green"> 연구목표 </span><br>
+    <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color: rgba(211, 211, 211, 0.2);"> 
+      <span style="font-size: 13px">
+        　■ 　가상환경을 활용한 로봇 매니퓰레이터의 <span style="color:salmon"><b>경로 이동 모방학습방법</b></span> 개발 <br>
+         　■ 　로봇의 교시 작업 시 <span style="color:salmon"><b>사용자 의도 파악(힘+경로)을 위한 모방학습 알고리즘</b></span> 개발 <br>
+         　■ 　다관절 로봇의 모방학습을 이용한 <span style="color:salmon"><b>사용자 의도에 따른 접촉력 및 경로 이동작업</b></span> 적용
+        </span>
+    </div>
+    <br>
+    <br>
+    <span style="font-size: 30px; color:green"> 연구내용 </span><br>
+    <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color:rgba(211, 211, 211, 0.2);"> 
+      <span style="font-size: 13px">
+   　■ 　기존의 다관절 로봇에 대한 모방학습방법 조사 및 분석 <br>
+   　■ 　Gazebo 가상환경 기반의 매니퓰레이터를 위한 학습환경 구축 <br>
+   　■ 　ROS를 이용한 로봇 제어시스템 구축<br>
+   　■ 　동적 로봇에 발생하는 접촉력을 추정하기 위한 학습알고리즘 개발 <br>
+   　■ 　매니퓰레이터의 접촉력 및 경로 정보를 이용한 모방학습 알고리즘 개발<br>
+   　■ 　사용자 의도 파악을 위한 모방학습 알고리즘 기반의 Drawing task 수행
+        </span>
+    </div>
 <br>
-<p style="font-size:1rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
-　Research on Unmanned Aerial Vehicles has been actively conducted in recent years. In particular, the UAV to explore an unknown, GNSS-denied environment is required, but the self-localization method, such as Visual Inertial Odometry, is mandatory to operate it. Considering the payload and the operating time of the UAV, lightweight and low-power consuming cameras and IMU are preferred, and even Object Detection and 3D Mapping can be obtained using a RGB-D camera. In this work, we developed a 3D Mapping system including object positions in an unknown and GNSS-denied environment for the UAV with a RGB-D camera. The system is demonstrated in Gazebo simulator, and the quantitative and qualitative results are obtained.</p>
 
-<br>
-
-***Keywords***: Autonomous Vehicle, Visual servoing, Multi-Channel LiDAR , Sensor Fusion
+**Keywords**<br>
+  <span style="font-size: 13px"> Contact Force, Imitation Learning, Trajectory Learning, Inverse Reinforcement Learning, Manipulator</span>
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j8nnk5R37XU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-    </iframe>
+  <img height="250" src="/assets/images/ETRI2020.gif">
+   <p align="center style="text-align:center;">그림 1. 의도를 이용한 모방학습 분류 작업 태스크에 적용</p>
+  <img height="250" src="/assets/images/ETRI2020-TRI.gif"> 
+   <p align="center style="text-align:center;">그림 2. 의도를 이용한 모방학습 도형 그리기 태스크에 적용</p>
+  <img height="270" src="/assets/images/ETRI2020_BLOCK.JPG">
+   <p align="center style="text-align:center;">그림 3. 제안하는 모방학습 프레임워크 블록 다이어그램</p>
 </p>
+  
+  </div>
 </details>
     
 ---
