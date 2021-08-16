@@ -210,11 +210,9 @@ comments: false
 
 <p align="center">
   <img height="250" src="/assets/images/husky/husky-experiment.gif">
-   <p style="text-align:center;">그림 1. 의도를 이용한 모방학습 분류 작업 태스크에 적용</p>
 </p>
 <p align="center">
   <img height="250" src="/assets/images/husky/husky-experiment2.gif"> 
-   <p style="text-align:center;">그림 2. 의도를 이용한 모방학습 도형 그리기 태스크에 적용</p>
 </p>
   
   </div>
