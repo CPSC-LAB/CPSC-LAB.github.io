@@ -95,10 +95,12 @@ comments: false
 <p align="center">
   <img height="250" src="/assets/images/ETRI2020.gif">
    <p align="center style="text-align:center;">그림 1. 의도를 이용한 모방학습 분류 작업 태스크에 적용</p>
+</p>
+<p align="center">
   <img height="250" src="/assets/images/ETRI2020-TRI.gif"> 
-   <p align="center style="text-align:center;">그림 2. 의도를 이용한 모방학습 도형 그리기 태스크에 적용</p>
+   <p style="text-align:center;">그림 2. 의도를 이용한 모방학습 도형 그리기 태스크에 적용</p>
   <img height="270" src="/assets/images/ETRI2020_BLOCK.JPG">
-   <p align="center style="text-align:center;">그림 3. 제안하는 모방학습 프레임워크 블록 다이어그램</p>
+   <p style="text-align:center;">그림 3. 제안하는 모방학습 프레임워크 블록 다이어그램</p>
 </p>
   
   </div>
@@ -209,11 +211,11 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 
 <p align="center">
   <img height="250" src="/assets/images/ETRI2020.gif">
-   <p align="center style="text-align:center;">그림 1. 의도를 이용한 모방학습 분류 작업 태스크에 적용</p>
+   <p style="text-align:center;">그림 1. 의도를 이용한 모방학습 분류 작업 태스크에 적용</p>
   <img height="250" src="/assets/images/ETRI2020-TRI.gif"> 
-   <p align="center style="text-align:center;">그림 2. 의도를 이용한 모방학습 도형 그리기 태스크에 적용</p>
+   <p style="text-align:center;">그림 2. 의도를 이용한 모방학습 도형 그리기 태스크에 적용</p>
   <img height="270" src="/assets/images/ETRI2020_BLOCK.JPG">
-   <p align="center style="text-align:center;">그림 3. 제안하는 모방학습 프레임워크 블록 다이어그램</p>
+   <p style="text-align:center;">그림 3. 제안하는 모방학습 프레임워크 블록 다이어그램</p>
 </p>
   
   </div>
