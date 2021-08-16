@@ -157,7 +157,7 @@ comments: false
 <details>
   <summary> <span style="font-size: 20px"> (2018.06~2018.11)<br>　2018 R-BIZ challenge  터틀봇3 오토레이스 </span> </summary>
   <div markdown="1">
-<span style="font-size: 13px"> This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](https://cpsc-lab.github.io//)</span>
+<span style="font-size: 13px"> This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](https://cpsc-lab.github.io/)</span>
 <br>
 <p style="font-size:1rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
 　Turtlebot3는 다양한 미션을 자율주행을 통해 수행하기 위해 ROS 기반으로 개발되었다. 로봇의 제어를 Lyapunov function을 이용하여 안정성을 검증하였고, Matlab Computer Vision Toolbox를 이용하여 Object Dection을 구현하였다. 모든 System은 Python으로 구현되었으며 2018 R-BIZ challenge  터틀봇3 오토레이스에서 Mathworks 특별상을 수상했다. </p>
