@@ -252,12 +252,8 @@ comments: false
   <span style="font-size: 13px"> Multi-rate sampled-data system, State estimator, Explicit Model predictive control, Mobile robot, tracking control</span>
 
 <p align="center">
-  <img height="250" src="/assets/images/husky/husky-experiment.gif">
+  <img height="250" src="/assets/images/2017.jpg">
 </p>
-<p align="center">
-  <img height="250" src="/assets/images/husky/husky-experiment2.gif"> 
-</p>
-  
   </div>
 </details>
    
