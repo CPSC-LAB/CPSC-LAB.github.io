@@ -221,24 +221,44 @@ comments: false
 </details>
     
 ---
-
 <details>
   <summary> <span style="font-size: 20px"> (2016.11~2019.10)<br>　영상검출오류에 강인한 예측 비주얼 서보잉 기법 개발 </span> </summary>
+  
   <div markdown="1">
-This project was conducted at <span style="color:grin">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](https://cpsc-lab.github.io/)
-  </div>  
+<span style="font-size: 13px"> This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](https://cpsc-lab.github.io/)</span>
+   </div>  
+  
+<div style="border: 1px solid black; padding: 10px; border-color: #E6E6E6; background-color: #EFFBF5;"> 
+  <br>
+    <span style="font-size: 30px; color:green"> 연구목표 </span><br>
+    <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color: rgba(211, 211, 211, 0.2);"> 
+      <span style="font-size: 13px">
+        　■ 　Robot manipulator에 대해 Visual servoing 시스템을 구축하고 카메라의 이미지 처리를 통해 target 목표를 이미지로부터 추출(featuring) 후 추출된 이미지로부터 목표점을 구하고, 이를 목표치와 비교해 에러를 최소화하는 예측제어 프레임웍 구축 및 6축 로봇에 적용하여 그 안정성과 성능을 확인한다. <br>
+         　■ 　2차년도 연구목표는 영상인식오류에 대한 이벤트 트리거 예측 Visual servoing 방법을 제안하는데 있다. 비주얼 서보잉 시스템을 샘플데이타 방식으로 모델링하고 이에 대해 샘플링, 양자화, 데이터 오류처리 문제를 실제적인 환경에서 고려해 이에 대한 해석을 통해 영상신호처리 및 모델예측제어기 설계를 체계적으로 연구하는데 있다. 해당 연구를 바탕으로 모바일 로봇에 Visual servoing 방법을 적용하는 것을 목표로 한다.   <br>
+         　■ 　강인한 예측 Visual servoing 시스템에 대한 연구결과를 바탕으로 자율 주행 자동차 시스템에 적용한다. 기존의 자율 주행 자동차 연구의 경우, 고전적인 제어방식으로 전후방 차량감지 및 주변 환경을 감지하기 위해 추가적인 센서를 장착하고 이를 바탕으로 제어하는 방법을 사용한다. 해당 연구에서는 기존 연구를 활용하여 인간이 자동차 운전을 하는 방법과 같이 백미러와, 전방, 좌우 사이드미러의 이미지를 기반으로 정속주행과 조향제어가 가능한 자율주행 방법을 개발하는데 중점을 둔다.
+        </span>
+    </div>
+    <br>
+    <br>
+    <span style="font-size: 30px; color:green"> 연구내용 </span><br>
+    <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color:rgba(211, 211, 211, 0.2);"> 
+      <span style="font-size: 13px">
+   　Visual servo control refers to the use of computer vision data to control the motion of a robot. The vision data may be acquired from a camera that is mounted directly on a robot manipulator or on a mobile robot, in which case motion of the robot induces camera motion, or the camera can be fixed in the workspace so that it can observe the robot motion from a stationary configuration. Other configurations can be considered such as, for instance, several cameras mounted on pan-tilt heads observing the robot motion.
+        </span>
+    </div>
 <br>
-<p style="font-size:1rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
-　Visual servo control refers to the use of computer vision data to control the motion of a robot. The vision data may be acquired from a camera that is mounted directly on a robot manipulator or on a mobile robot, in which case motion of the robot induces camera motion, or the camera can be fixed in the workspace so that it can observe the robot motion from a stationary configuration. Other configurations can be considered such as, for instance, several cameras mounted on pan-tilt heads observing the robot motion.</p>
 
-<br>
-
-***Keywords***: Autonomous Vehicle, Visual servoing, Multi-Channel LiDAR , Sensor Fusion
+**Keywords**<br>
+  <span style="font-size: 13px"> Multi-rate sampled-data system, State estimator, Explicit Model predictive control, Mobile robot, tracking control</span>
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j8nnk5R37XU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-    </iframe>
+  <img height="250" src="/assets/images/husky/husky-experiment.gif">
 </p>
+<p align="center">
+  <img height="250" src="/assets/images/husky/husky-experiment2.gif"> 
+</p>
+  
+  </div>
 </details>
-    
+   
 ---
