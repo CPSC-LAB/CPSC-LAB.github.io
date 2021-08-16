@@ -4,8 +4,6 @@ main:
     url: /professor_intro/
   - title: "Member"
     url: /members/
-  - title: "Research"
-    url: /collection-archive/
   - title: "Publication"
     url: /publications_cpsc/
   - title: "Project"
