@@ -169,6 +169,8 @@ comments: false
   <img height="250" src="/assets/images/turtlebot/racing.gif">
    <p style="text-align:center;">그림 1. 대회주행 영상</p>
 </p>
+  
+  </div>
 </details>
     
 ---
