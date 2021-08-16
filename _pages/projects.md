@@ -109,6 +109,35 @@ comments: false
 ---
 
 <details>
+  <summary> <span style="font-size: 20px"> (2019.06~2023.06)<br>　Robust cyber-physical system control against cyber attacks using a sampled-data approach </span> </summary>
+  
+  <div markdown="1">
+<span style="font-size: 13px"> This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](https://cpsc-lab.github.io/)</span>
+   </div>  
+  
+<div style="border: 1px solid black; padding: 10px; border-color: #E6E6E6; background-color: #EFFBF5;"> 
+  <br>
+    <span style="font-size: 30px; color:green"> 연구목표 </span><br>
+    <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color: rgba(211, 211, 211, 0.2);"> 
+      <span style="font-size: 13px">
+        　Cyber-physical systems are widely used in many areas such as smart grid, autonomous vehicle, drone, mobile robot, power plant, smart factory so on. In the present and future automated physical environment, it is significantly important to develop the robust cyber physical systems against cyber attacks so as to protect the property and human life. Thus, to withstand the cyber attacks, this study presents mathematical methods for cyber-physical control system design based on sampled-data approach, and the proposed methods are applied to multi-agent unmanned vehicle and smart grid power systems in order to verify the effectiveness of the presented methods.
+        </span>
+    </div>
+<br>
+
+**Keywords**<br>
+  <span style="font-size: 13px"> Manipulator, Sensorless system, Force estimator, Impedance control, Human-robot cooperation</span>
+
+<p align="center">
+  <img height="250" src="/assets/images/2018.jpg">
+</p>
+  
+  </div>
+</details>
+    
+---
+
+<details>
   <summary> <span style="font-size: 20px"> (2019.03~2019.11)<br>　센서리스 매니퓰레이터의 <br>　외력 추정기 및 임피던스 제어기 설계에 대한 연구 </span> </summary>
   
   <div markdown="1">
