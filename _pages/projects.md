@@ -142,7 +142,7 @@ comments: false
 <br>
 
 **Keywords**<br>
-  <span style="font-size: 13px"> Contact Force, Imitation Learning, Trajectory Learning, Inverse Reinforcement Learning, Manipulator</span>
+  <span style="font-size: 13px"> Manipulator, Sensorless system, Force estimator, Impedance control, Human-robot cooperation</span>
 
 <p align="center">
   <img height="250" src="/assets/images/manipulator/force-estimation.gif">
@@ -206,7 +206,7 @@ comments: false
 <br>
 
 **Keywords**<br>
-  <span style="font-size: 13px"> Contact Force, Imitation Learning, Trajectory Learning, Inverse Reinforcement Learning, Manipulator</span>
+  <span style="font-size: 13px"> Multi-rate sampled-data system, State estimator, Explicit Model predictive control, Mobile robot, tracking control</span>
 
 <p align="center">
   <img height="250" src="/assets/images/husky/husky-experiment.gif">
