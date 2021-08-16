@@ -1,10 +1,15 @@
 ---
-title: "<span style="color:green">CONTACT INFORMATION</span>"
+title: "CONTACT INFORMATION"
 permalink: /contact/
 layout: categories
 ---
 
-
+<div id="col">Tel +82-053-950-5509 moony@knu.ac.kr<br>
+Engineering Bldg. 1-619<br>
+Department of Electronic Engineering <br>
+Daehak-ro 80, <br>
+Kyungpook National University,<br>
+Daegu Bukgu 41566, Republic of Korea<br></div>
 Office:
 
 Tel +82-053-950-5509
