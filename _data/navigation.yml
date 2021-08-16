@@ -9,7 +9,7 @@ main:
   - title: "Project"
     url: /projects/
   - title: "Contact"
-    url: /publications_cpsc/
+    url: /contact/
 
 # sidebar navigation list sample
 sidebar-sample:
