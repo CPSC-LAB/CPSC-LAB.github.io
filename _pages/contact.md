@@ -1,12 +1,9 @@
 ---
-title: "CONTACT INFORMATION"
+title: "<span style="color:green">CONTACT INFORMATION</span>"
 permalink: /contact/
 layout: categories
 ---
 
-<p align="center"><img src="/assets/images/professor.jpg" width="650"></p>
-
-## <span style="color:green">CONTACT INFORMATION</span>
 
 Office:
 
