@@ -186,9 +186,10 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
     <span style="font-size: 30px; color:green"> 연구목표 </span><br>
     <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color: rgba(211, 211, 211, 0.2);"> 
       <span style="font-size: 13px">
-        　■ 　가상환경을 활용한 로봇 매니퓰레이터의 <span style="color:salmon"><b>경로 이동 모방학습방법</b></span> 개발 <br>
-         　■ 　로봇의 교시 작업 시 <span style="color:salmon"><b>사용자 의도 파악(힘+경로)을 위한 모방학습 알고리즘</b></span> 개발 <br>
-         　■ 　다관절 로봇의 모방학습을 이용한 <span style="color:salmon"><b>사용자 의도에 따른 접촉력 및 경로 이동작업</b></span> 적용
+        　■ 　다양한 샘플링 주기를 가지는 시스템의 안정성 및 제어 성능 향상을 위한 기법 연구 <br>
+         　■ 　다중 샘플링 주기를 가지는 샘플 데이터 시스템을 위한 상태 추정기 설계 <br>
+         　■ 　불확실성 및 왜란에 대응한 실시간 동작을 위한 모델 기반 예측 제어기 설계<br>
+         　■ 　다른 샘플링 주기를 가진 라이다와 카메라를 이용하는 모바일 로봇을 위한 경로 추적 알고리즘 구현 및 적용
         </span>
     </div>
     <br>
@@ -196,12 +197,11 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
     <span style="font-size: 30px; color:green"> 연구내용 </span><br>
     <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color:rgba(211, 211, 211, 0.2);"> 
       <span style="font-size: 13px">
-   　■ 　기존의 다관절 로봇에 대한 모방학습방법 조사 및 분석 <br>
-   　■ 　Gazebo 가상환경 기반의 매니퓰레이터를 위한 학습환경 구축 <br>
-   　■ 　ROS를 이용한 로봇 제어시스템 구축<br>
-   　■ 　동적 로봇에 발생하는 접촉력을 추정하기 위한 학습알고리즘 개발 <br>
-   　■ 　매니퓰레이터의 접촉력 및 경로 정보를 이용한 모방학습 알고리즘 개발<br>
-   　■ 　사용자 의도 파악을 위한 모방학습 알고리즘 기반의 Drawing task 수행
+   　■ 　다중주기 샘플 데이터 시스템에 대한 기존의 연구 내용 조사 및 분석 <br>
+   　■ 　다중 샘플링 주기를 가지는 샘플 데이터 시스템을 위한 상태 추정기 설계를 위해 새로운 리아프노프 함수 도입 및 안정화 조건 도출<br>
+   　■ 　시스템의 제한 조건과 불확실성 및 왜란을 고려하는 explicit MPC 설계<br>
+   　■ 　ROS 기반의 카메라, 라이라, 모바일 로봇 제어 시스템 구축<br>
+   　■ 　카메라와 라이다기반의 모바일 로봇을 위한 경로 추정 알고리즘 설계 및 구현
         </span>
     </div>
 <br>
