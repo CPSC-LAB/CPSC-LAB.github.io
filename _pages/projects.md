@@ -160,7 +160,7 @@ comments: false
 <span style="font-size: 13px"> This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](https://cpsc-lab.github.io//)</span>
 <br>
 <p style="font-size:1rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
-　Research on Unmanned Aerial Vehicles has been actively conducted in recent years. In particular, the UAV to explore an unknown, GNSS-denied environment is required, but the self-localization method, such as Visual Inertial Odometry, is mandatory to operate it. Considering the payload and the operating time of the UAV, lightweight and low-power consuming cameras and IMU are preferred, and even Object Detection and 3D Mapping can be obtained using a RGB-D camera. In this work, we developed a 3D Mapping system including object positions in an unknown and GNSS-denied environment for the UAV with a RGB-D camera. The system is demonstrated in Gazebo simulator, and the quantitative and qualitative results are obtained.</p>
+　Turtlebot3는 다양한 미션을 자율주행을 통해 수행하기 위해 ROS 기반으로 개발되었다. 로봇의 제어를 Lyapunov function을 이용하여 안정성을 검증하였고, Matlab Computer Vision Toolbox를 이용하여 Object Dection을 구현하였다. 모든 System은 Python으로 구현되었으며 2018 R-BIZ challenge  터틀봇3 오토레이스에서 Mathworks 특별상을 수상했다. </p>
 
 
 ***Keywords***: Autonomous Vehicle, Visual servoing, Multi-Channel LiDAR , Sensor Fusion
