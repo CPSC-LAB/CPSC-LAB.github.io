@@ -143,12 +143,8 @@ comments: false
   <span style="font-size: 13px"> Contact Force, Imitation Learning, Trajectory Learning, Inverse Reinforcement Learning, Manipulator</span>
 
 <p align="center">
-  <img height="250" src="/assets/images/ETRI2020.gif">
-   <p style="text-align:center;">그림 1. 의도를 이용한 모방학습 분류 작업 태스크에 적용</p>
-  <img height="250" src="/assets/images/ETRI2020-TRI.gif"> 
-   <p style="text-align:center;">그림 2. 의도를 이용한 모방학습 도형 그리기 태스크에 적용</p>
-  <img height="270" src="/assets/images/ETRI2020_BLOCK.JPG">
-   <p style="text-align:center;">그림 3. 제안하는 모방학습 프레임워크 블록 다이어그램</p>
+  <img height="250" src="/assets/images/manipulator/force-estimation.gif">
+   <p style="text-align:center;">그림 1. 외력추정 태스크</p>
 </p>
   
   </div>
@@ -169,8 +165,8 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 ***Keywords***: Autonomous Vehicle, Visual servoing, Multi-Channel LiDAR , Sensor Fusion
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j8nnk5R37XU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-    </iframe>
+  <img height="250" src="/assets/images/turtlebot/racing.gif">
+   <p style="text-align:center;">그림 1. 대회주행 영상</p>
 </p>
 </details>
     
