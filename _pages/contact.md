@@ -4,12 +4,7 @@ permalink: /contact/
 layout: categories
 ---
 
-<!DOCTYPE html PUBLIC>
-<html>
-<head>
-<meta charset="EUC-KR">
-<title>초간단 테이블</title>
-</head>
+<html
 <body>
     <table border="1">
 	<th>테이블</th>
