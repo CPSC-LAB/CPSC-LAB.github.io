@@ -1,48 +1,20 @@
 ---
-title: "Prof. Sang moon Lee"
+title: "CONTACT INFORMATION"
 permalink: /contact/
 layout: categories
 ---
 
 <p align="center"><img src="/assets/images/professor.jpg" width="650"></p>
 
-## <span style="color:green">Biography</span>
+## <span style="color:green">CONTACT INFORMATION</span>
 
-* 2016 ~ currently: Associate Professor, Department of Electronic Engineering, Kyungpook National University (KNU)
-* 2009 ~ 2015: Assistant Professor, Department of Electronic Engineering, Daegu University
-* 2006 ~ 2008: Senior Researcher, Korea Telecom(KT)
-* 2001 ~ 2006: Ph.D. Department of Electronic Engineering, Pohang University of Science and Technology (POSTECH)
-* 1999 ~ 2001: M.S. POSTECH
-* 1992 ~ 1999: B.S. EE. KNU
-          
-          
-## <span style="color:green">Research interests</span>
+Office:
 
-##### Reinforcement Learning and Imitation Learning
-* Reinforcement Learning algorithm
-* Generative adversarial Imitation Learning
-* Twin-delayed DDPG
-* Imitation Learning for robot
-          
-##### Automatic Control Theory and Applications
-* Model predictive control
-* Intelligent Control
-* Nonlinear Dynamical Systems
-* Robust Control Theory
-          
-##### Networked Control Systems
-* Sampled-data control
-* Quantization
-* time-delay
-* Synchronization
-* Genetic Regulatory Networks
-          
-##### Cyber Physical Systems
-* Embedded Control Systems
-* Complex Dynamical Networks
-* Multi-Agent Systems 
-          
-##### Industrial Applications
-* Fuel cell systems
-* Power Systems
-* Automotive systems
+Tel +82-053-950-5509
+
+moony@knu.ac.kr
+Engineering Bldg. 1-619
+Department of Electronic Engineering 
+Daehak-ro 80, 
+Kyungpook National University,
+Daegu Bukgu 41566, Republic of Korea
