@@ -36,7 +36,7 @@ feature_row2:
     image_caption: "2020~"
     title: "JinSeong Kim"
     excerpt : "　　　　　　　　　　　　　　　　　　　　　　　<br>"
-  - image_path: /assets/images/members/DH.jpg
+  - image_path: /assets/images/members/D4H.jpg
     image_caption: "2021~"
     title: "DongHee Ye"
     excerpt: "　　　　　　　　　　　　　　　　　　　　　　　<br>**Research Area**<br> - Machine Learning for Robot <br> - Artificial Neural Network <br> - Cyber-Physical systems <br><br> **E-mail**<br>cpsc.donghee@gmail.com"    
