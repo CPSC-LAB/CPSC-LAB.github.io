@@ -9,7 +9,7 @@ feature_row:
     
   - image_path: /assets/images/equipment/sawyer.jpg
     image_caption: "2020~"
-    title: "Sawyer"
+    title: <p style="text-align:center;">"Sawyer"</p>
     
   - image_path: /assets/images/equipment/ur5.jpg
     image_caption: "2019~"
@@ -24,11 +24,11 @@ feature_row2:
     title: "Turtlebot3"
     
 feature_row3:
-  - image_path: /assets/images/equipment/3dof.jpg
+  - image_path: /assets/images/equipment/3dof.JPG
     title: "3 DOF Hover-Quanser"
 
 feature_row4:
-  - image_path: /assets/images/equipment/inv_pendulum.jpg
+  - image_path: /assets/images/equipment/inv_pendulum.JPG
     title: "Inverted Pendulum-Quanser"
     
 ---
