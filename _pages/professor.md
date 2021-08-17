@@ -17,7 +17,7 @@ layout: categories
           
 ## <span style="color:green">Career & Activities</span>
 * 연구논문실적: SCI(E)급 국제학술지 158편, 국내전문학술지(연구재단 등재지) 24편, 국외학술논문발표 23편
-* 논문인용횟수: Google Scholar 6430회, Scopus DB 5843회, H-index 46 (2021.01.14.)
+* 논문인용횟수: Google Scholar 6713회, Scopus DB 6112회, H-index 50 (2021.08.17.)
 * 국제저널편집위원: International Journal of Systems Science, Electronics, Associate Editor
 * 20여개 SCI급 국제학술지 심사위원
 * (사) 대한임베디드공학회 : 논문지(등재지)의 부편집장
