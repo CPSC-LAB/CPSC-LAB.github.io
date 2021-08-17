@@ -17,7 +17,7 @@ feature_row:
   - image_path: /assets/images/members/noface.jpg
     image_caption: "2019~"
     title: "HyeMin Lee"
-    excerpt : "<span style='font-size: 20px'>Gym환경을 이용한 강화학습 및 모방학습 알고리즘 Benchmark 성능비교"
+    excerpt : "<span style='color:salmon'>Gym환경을 이용한 강화학습 및 모방학습 알고리즘 Benchmark 성능비교"
     
 feature_row2:
   - image_path: /assets/images/members/HI.jpg
