@@ -138,7 +138,7 @@ comments: false
 ---
 
 <details>
-  <summary> <span style="font-size: 20px"> (2019.03~2019.11)<br>　센서리스 매니퓰레이터의 <br>　외력 추정기 및 임피던스 제어기 설계에 대한 연구 </span> </summary>
+  <summary> <span style="font-size: 20px"> (2019.03~2019.11, ETRI)<br>　센서리스 매니퓰레이터의 <br>　외력 추정기 및 임피던스 제어기 설계에 대한 연구 </span> </summary>
   
   <div markdown="1">
 <span style="font-size: 13px"> This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](https://cpsc-lab.github.io/)</span>
