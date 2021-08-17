@@ -8,6 +8,8 @@ main:
     url: /publications_cpsc/
   - title: "Project"
     url: /projects/
+  - title: "Equipment"
+    url: /equipment/
   - title: "Contact"
     url: /contact/
 
