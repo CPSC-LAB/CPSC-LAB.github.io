@@ -30,33 +30,3 @@ layout: categories
 * 2012년 국제자동제어학술대회 지식경제부장관 우수논문상
 
 
-## <span style="color:green">Research interests</span>
-
-##### Reinforcement Learning and Imitation Learning
-* Reinforcement Learning algorithm
-* Generative adversarial Imitation Learning
-* Twin-delayed DDPG
-* Imitation Learning for robot
-          
-##### Automatic Control Theory and Applications
-* Model predictive control
-* Intelligent Control
-* Nonlinear Dynamical Systems
-* Robust Control Theory
-          
-##### Networked Control Systems
-* Sampled-data control
-* Quantization
-* time-delay
-* Synchronization
-* Genetic Regulatory Networks
-          
-##### Cyber Physical Systems
-* Embedded Control Systems
-* Complex Dynamical Networks
-* Multi-Agent Systems 
-          
-##### Industrial Applications
-* Fuel cell systems
-* Power Systems
-* Automotive systems
