@@ -27,7 +27,7 @@ feature_row2:
   - image_path: /assets/images/members/noface.jpg
     image_caption: "2020~"
     title: "JinSeong Kim"
-    excerpt : "　　　　　　　　　　　　　　　　　　　　　　　<br>**Research Area**<br> - Smart Facory <br> - Machine Leraning <br><br> <span style="color:#3399ff">LIG넥스원 Research Engineer</span><br> **HUSTAR ICT 멘토**"
+    excerpt : "　　　　　　　　　　　　　　　　　　　　　　　<br>**Research Area**<br> - Smart Facory <br> - Machine Leraning <br><br> <span style="color:#3399ff">LIG넥스원 Research Engineer </span><br> **HUSTAR ICT 멘토**"
   - image_path: /assets/images/members/JC.jpg
     image_caption: "2020~"
     title: "JongCheon Park"
