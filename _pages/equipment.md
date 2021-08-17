@@ -1,6 +1,6 @@
 ---
 title: "CPSC Lab's Members"
-permalink: /members/
+permalink: /equipment/
 layout: categories
 
 feature_row:
