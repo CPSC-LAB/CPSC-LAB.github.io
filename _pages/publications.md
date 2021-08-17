@@ -52,6 +52,7 @@ layout: categories
 ## 2016
 
 | Authors| Paper| Journal|
+| --------| ------  | ------------------------------------------------------------ |
 | OM Kwon, Myeong-Jin Park, Ju H Park, Sang-Moon Lee* | [Improvement on the feasible region of H∞ performance and stability for systems with interval time-varying delays via augmented Lyapunov–Krasivskii functional](https://reader.elsevier.com/reader/sd/pii/S0016003216303246?token=D596113EEBBC234483123C52C4DDDF0BC158B09D2DF3E6D9BB1F5F98382AF89ADE019E111EE41BDAC928CE0E5806E7C3&originRegion=us-east-1&originCreation=20210813072106) | Journal of the Franklin Institute |
 | OM Kwon, Myeong-Jin Park, Ju H Park, Sang-Moon Lee* | [Stability and stabilization of TS fuzzy systems with time-varying delays via augmented Lyapunov-Krasovskii functionals](https://reader.elsevier.com/reader/sd/pii/S002002551630603X?token=5E645B4C1AB5D57B911F0453DE7909913CDF35A77A7B54E912733775FDD2CBC8C9426DE35BF00B7E3C0506AAEE0520CD&originRegion=us-east-1&originCreation=20210813072108) | Information Sciences |
 | Yajuan Liu, Bao-Zhu Guo, Ju H Park, Sang-Moon Lee* | [Nonfragile exponential synchronization of delayed complex dynamical networks with memory sampled-data control](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7636934) | IEEE transactions on neural networks and learning systems |
@@ -62,6 +63,7 @@ layout: categories
 ## 2015
 
 | Authors| Paper| Journal|
+| --------| ------  | ------------------------------------------------------------ |
 | Yajuan Liu, Sang-Moon Lee* | [Sampled-data synchronization of chaotic Lur’e systems with stochastic sampling](https://link.springer.com/content/pdf/10.1007/s00034-015-0032-6.pdf) | Circuits, Systems, and Signal Processing |
 | JW Lee, SM Lee, SC Won | [Complex function projective synchronization of general networked chaotic systems by using complex adaptive fuzzy logic](https://link.springer.com/content/pdf/10.1007/s11071-015-2128-8.pdf) | Nonlinear Dynamics |
 | Yajuan Liu, Sang-Moon Lee* | [Stability and stabilization of Takagi–Sugeno fuzzy systems via sampled-data and state quantized controller](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7206604) | IEEE Transactions on fuzzy Systems |
