@@ -16,12 +16,12 @@ layout: categories
 * 1992 ~ 1999: B.S. EE. KNU
           
 ## <span style="color:green">Career & Activities</span>
-* <span style='font-size: 35px'>SCI(E)급 국제학술지 164편, 국내전문학술지(연구재단 등재지) 24편, 국외학술논문발표 23편</span>
-* 논문인용횟수: Google Scholar 6713회, Scopus DB 6112회, H-index 50 (2021.08.17.)
-* 국제저널편집위원: International Journal of Systems Science, Electronics, Associate Editor
-* 20여개 SCI급 국제학술지 심사위원
-* (사) 대한임베디드공학회 : 논문지(등재지)의 부편집장
-* 대한전기학회 논문지(scopus 등재지)의 편집위원
+* <span style='font-size: 15px'>SCI(E)급 국제학술지 164편, 국내전문학술지(연구재단 등재지) 24편, 국외학술논문발표 23편</span>
+* <span style='font-size: 15px'>논문인용횟수: Google Scholar 6713회, Scopus DB 6112회, H-index 50 (2021.08.17.)</span>
+* <span style='font-size: 15px'>국제저널편집위원: International Journal of Systems Science, Electronics, Associate Editor</span>
+* <span style='font-size: 15px'>20여개 SCI급 국제학술지 심사위원</span>
+* <span style='font-size: 15px'>(사) 대한임베디드공학회 : 논문지(등재지)의 부편집장</span>
+* <span style='font-size: 15px'>대한전기학회 논문지(scopus 등재지)의 편집위원</span>
 
 ## <span style="color:green">Awards</span>
 * 2018/2019/2020년 세계상위 1% 연구자 선정 (크로스필드분야, 톰슨로이터) 
