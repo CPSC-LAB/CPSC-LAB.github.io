@@ -17,7 +17,7 @@ feature_row:
   - image_path: /assets/images/members/noface.jpg
     image_caption: "2019~"
     title: "HyeMin Lee"
-    excerpt : "　　　　　　　　　　　　　　　　　　　　　　　<br><span style='color:red'><b>ETRI 연구원</b>"
+    excerpt : "　　　　　　　　　　　　　　　　　　　　　　　<br><span style='color:red;'><b>ETRI 연구원</b>"
     
 feature_row2:
   - image_path: /assets/images/members/HI.jpg
