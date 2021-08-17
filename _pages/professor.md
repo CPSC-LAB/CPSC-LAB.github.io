@@ -16,7 +16,7 @@ layout: categories
 * 1992 ~ 1999: B.S. EE. KNU
           
 ## <span style="color:green">Career & Activities</span>
-* 연구논문실적: SCI(E)급 국제학술지 158편, 국내전문학술지(연구재단 등재지) 24편, 국외학술논문발표 23편
+* <span style='font-size: 35px'>연구논문실적: SCI(E)급 국제학술지 158편, 국내전문학술지(연구재단 등재지) 24편, 국외학술논문발표 23편</span>
 * 논문인용횟수: Google Scholar 6713회, Scopus DB 6112회, H-index 50 (2021.08.17.)
 * 국제저널편집위원: International Journal of Systems Science, Electronics, Associate Editor
 * 20여개 SCI급 국제학술지 심사위원
