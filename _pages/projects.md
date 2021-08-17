@@ -11,7 +11,7 @@ comments: false
 <span style="color:Salmon"> Click the titles to see the details </span>
 
 <details>
-  <summary> <span style="font-size: 20px"> (2021.04~2021.11)<br>　다관절 로봇의 물리적 지능을 위한 교시학습 인공지능기술개발 </span> </summary>
+  <summary> <span style="font-size: 20px"> (2021.04~2021.11, ETRI)<br>　다관절 로봇의 물리적 지능을 위한 교시학습 인공지능기술개발 </span> </summary>
   
   <div markdown="1">
 <span style="font-size: 13px"> This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](https://cpsc-lab.github.io/)</span>
@@ -58,7 +58,7 @@ comments: false
 ---
 
 <details>
-  <summary> <span style="font-size: 20px"> (2020.05~2020.11)<br>　다관절 로봇을 위한 인공지능 모방학습 기술 개발 </span> </summary>
+  <summary> <span style="font-size: 20px"> (2020.05~2020.11, ETRI)<br>　다관절 로봇을 위한 인공지능 모방학습 기술 개발 </span> </summary>
   
   <div markdown="1">
 <span style="font-size: 13px"> This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](https://cpsc-lab.github.io/)</span>
@@ -109,7 +109,7 @@ comments: false
 ---
 
 <details>
-  <summary> <span style="font-size: 20px"> (2019.06~2023.06)<br>　Robust cyber-physical system control against cyber attacks using a sampled-data approach </span> </summary>
+  <summary> <span style="font-size: 20px"> (2019.06~2023.06, NRF)<br>　Robust cyber-physical system control against cyber attacks using a sampled-data approach </span> </summary>
   
   <div markdown="1">
 <span style="font-size: 13px"> This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](https://cpsc-lab.github.io/)</span>
@@ -205,7 +205,7 @@ comments: false
 ---
 
 <details>
-  <summary> <span style="font-size: 20px"> (2018.03~2018.11)<br>　다중주기 센서융합 기반 이동체 실시간 예측 제어 연구 </span> </summary>
+  <summary> <span style="font-size: 20px"> (2018.03~2018.11, ETRI)<br>　다중주기 센서융합 기반 이동체 실시간 예측 제어 연구 </span> </summary>
   
   <div markdown="1">
 <span style="font-size: 13px"> This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](https://cpsc-lab.github.io/)</span>
@@ -251,7 +251,7 @@ comments: false
     
 ---
 <details>
-  <summary> <span style="font-size: 20px"> (2016.11~2019.10)<br>　영상검출오류에 강인한 예측 비주얼 서보잉 기법 개발 </span> </summary>
+  <summary> <span style="font-size: 20px"> (2016.11~2019.10, NRF)<br>　영상검출오류에 강인한 예측 비주얼 서보잉 기법 개발 </span> </summary>
   
   <div markdown="1">
 <span style="font-size: 13px"> This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](https://cpsc-lab.github.io/)</span>
