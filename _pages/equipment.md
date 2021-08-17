@@ -8,11 +8,9 @@ feature_row:
     title: <p style="text-align:center;">Franka Emika Panda</p>
     
   - image_path: /assets/images/equipment/sawyer.jpg
-    image_caption: "2020~"
     title: <p style="text-align:center;">Sawyer</p>
     
   - image_path: /assets/images/equipment/ur5.jpg
-    image_caption: "2019~"
     title: <p style="text-align:center;">Universal Robots UR5</p>
     
 feature_row2:
