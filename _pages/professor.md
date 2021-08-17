@@ -7,13 +7,13 @@ layout: categories
 <p align="center"><img src="/assets/images/professor.jpg" width="650"></p>
 
 ## <span style="color:green">Biography</span>
-* 2021 ~ currently: Professor, Department of Electronic Engineering, Kyungpook National University (KNU)
+<span style='font-size: 14px'>* 2021 ~ currently: Professor, Department of Electronic Engineering, Kyungpook National University (KNU)
 * 2016 ~ 2020: Associate Professor, Department of Electronic Engineering, Kyungpook National University (KNU)
 * 2009 ~ 2015: Assistant Professor, Department of Electronic Engineering, Daegu University
 * 2006 ~ 2008: Senior Researcher, Korea Telecom(KT)
 * 2001 ~ 2006: Ph.D. Department of Electronic Engineering, Pohang University of Science and Technology (POSTECH)
 * 1999 ~ 2001: M.S. POSTECH
-* 1992 ~ 1999: B.S. EE. KNU
+* 1992 ~ 1999: B.S. EE. KNU</span>
           
 ## <span style="color:green">Career & Activities</span>
 <span style='font-size: 14px'>* SCI(E)급 국제학술지 164편, 국내전문학술지(연구재단 등재지) 24편, 국외학술논문발표 23편</span>
