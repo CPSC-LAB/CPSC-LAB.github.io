@@ -5,7 +5,7 @@ layout: categories
 
 feature_row:
   - image_path: /assets/images/equipment/franka.jpg
-    title: "<p style="text-align:center;">Franka Emika Panda</p>"
+    title: "Franka Emika Panda"
     
   - image_path: /assets/images/equipment/sawyer.jpg
     image_caption: "2020~"
