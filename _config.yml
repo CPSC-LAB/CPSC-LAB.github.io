@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : <p style="text-align:center;">CPSC</p>
+title                    : <p style="font-size:24px;">CPSC</p>
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sangmoon Lee"
