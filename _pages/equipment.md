@@ -1,5 +1,5 @@
 ---
-title: "CPSC Lab's Members"
+title: "CPSC Lab's Equipments"
 permalink: /equipment/
 layout: categories
 
