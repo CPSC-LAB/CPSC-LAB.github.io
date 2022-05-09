@@ -1,5 +1,5 @@
 ---
-title: "CPSC Lab's publications"
+title: "PI Lab's publications"
 permalink: /publications_cpsc/
 layout: categories
 ---
