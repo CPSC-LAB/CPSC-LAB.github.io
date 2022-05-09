@@ -1,14 +1,15 @@
 ---
-title: "CPSC Lab's Members"
+title: "PI Lab's Members"
 permalink: /members/
 layout: categories
 
-feature_row:
+feature_row1:
   - image_path: /assets/images/members/SY.jpg
     image_caption: "2019~"
     title: "SeungYong Han"
     excerpt: "　　　　　　　　　　　　　　　　　　　　　　　<br>**Research Area**<br> - Sampled-data control<br> - Robust control<br> - Visual servoing <br><br> **E-mail** : cpsc.seungyong@gmail.com"
     
+feature_row2:
   - image_path: /assets/images/members/WS.jpg
     image_caption: "2020~"
     title: "WooSang shin"
@@ -19,7 +20,11 @@ feature_row:
     title: "HyeMin Lee"
     excerpt : "　　　　　　　　　　　　　　　　　　　　　　　<br><span style='color:salmon;'><b>ETRI 연구원</b>"
     
-feature_row2:
+feature_row3:
+  - image_path: /assets/images/members/noface.jpg
+    image_caption: "2022~"
+    title: "KiHoo Kim"
+    excerpt: "　　　　　　　　　　　　　　　　　　　　　　　<br>**Research Area**<br> - Model Predict Control <br><br> **E-mail**<br>cpsc.kihoo@gmail.com"
   - image_path: /assets/images/members/HI.jpg
     image_caption: "2019~"
     title: "HyeIn Jung"
@@ -39,22 +44,26 @@ feature_row2:
   - image_path: /assets/images/members/DH.jpg
     image_caption: "2021~"
     title: "DongHee Ye"
-    excerpt: "　　　　　　　　　　　　　　　　　　　　　　　<br>**Research Area**<br> - Machine Learning for Robot <br> - Artificial Neural Network <br> - Cyber-Physical systems <br><br> **E-mail**<br>cpsc.donghee@gmail.com"    
-    
-feature_row3:
-  - image_path: /assets/images/members/noface.jpg
-    image_caption: "2021~"
-    title: "GiHoo Kim"
-    excerpt : ""
-    
-  - image_path: /assets/images/members/noface.jpg
-    image_caption: "2021~"
-    title: "KyungDon Lee"
-    excerpt : ""
+    excerpt: "　　　　　　　　　　　　　　　　　　　　　　　<br>**Research Area**<br> - Machine Learning for Robot <br> - Artificial Neural Network <br> - Cyber-Physical systems <br><br> **E-mail**<br>cpsc.donghee@gmail.com"
+  
     
 feature_row4:
-
-
+  - image_path: /assets/images/members/noface.jpg
+    image_caption: "2022~"
+    title: "SeJun Park"
+    excerpt : ""
+    
+  - image_path: /assets/images/members/noface.jpg
+    image_caption: "2022~"
+    title: "MyeongBo Park"
+    excerpt : ""
+  
+  - image_path: /assets/images/members/noface.jpg
+    image_caption: "2022~"
+    title: "Hyeonchan Jung"
+    excerpt : ""
+  
+feature_row5:
   - image_path: /assets/images/members/noface.jpg
     image_caption: "2015년 박사 졸업"
     title: "Yajuan Liu"
@@ -67,9 +76,6 @@ feature_row4:
     image_caption: "2018년 박사 졸업"
     title: "BaeYoung Koo"
     excerpt : "포스코"  
-    
-    
-    
   - image_path: /assets/images/members/noface.jpg
     image_caption: "2018년 박사 졸업"
     title: "WooKyong Kwon"
@@ -82,8 +88,6 @@ feature_row4:
     image_caption: "2018년 학사 졸업"
     title: "SuJeong Hyun"
     excerpt : "서울대학교 진학"
-
-    
   - image_path: /assets/images/members/noface.jpg
     image_caption: "2019년 학사 졸업"
     title: "WanGyu Kim"
@@ -96,7 +100,6 @@ feature_row4:
     image_caption: "2019년 학사 졸업"
     title: "EungChang Mason Lee"
     excerpt : "한국과학기술원(KAIST) 진학"
-
   - image_path: /assets/images/members/noface.jpg
     image_caption: "2019년 박사 졸업"
     title: "Yongsik Jin"
@@ -109,7 +112,6 @@ feature_row4:
     image_caption: "2020년 학사 졸업"
     title: "KunHo Kim"
     excerpt : "한국전력공사"
-
   - image_path: /assets/images/members/noface.jpg
     image_caption: "2021년 학사 졸업"
     title: "KyungHoon Jung"
@@ -119,20 +121,23 @@ feature_row4:
     title: "Choi A Young"
     excerpt : "삼성전자"
 ---
-
-### Ph.D. Candidate
+### Postdoctoral researcher
 ---
-{% include feature_row id="feature_row" type="left" %}
-
-### M.S. Candidate
+{% include feature_row id="feature_row1" type="left"%}
+  
+### Ph.D. Candidate
 ---
 {% include feature_row id="feature_row2" type="left"%}
 
+### M.S. Candidate
+---
+{% include feature_row id="feature_row3" type="left"%}
+
 ### Under-graduate Student
 ---
-{% include feature_row id="feature_row3" %}
+{% include feature_row id="feature_row4" %}
 
 ### Alumni
 ---
-{% include feature_row id="feature_row4" %}
+{% include feature_row id="feature_row5" %}
 
